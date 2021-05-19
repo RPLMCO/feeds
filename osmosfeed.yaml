@@ -1,18 +1,21 @@
 cacheUrl: https://RPLMCO.github.io/feeds/cache.json
 sources:
-
-  - href: http://machinelearningmastery.com/blog/feed 
-  - href: https://eng.uber.com/tag/machine-learning/feed 
-  - href: https://aws.amazon.com/blogs/machine-learning/feed 
-  - href: http://arxiv.org/rss/cs.DB 
-  - href: http://arxiv.org/rss/cs.LG 
-  - href: http://news.mit.edu/rss/topic/machine-learning 
-  - href: https://www.reddit.com/r/MachineLearning/.rss 
-  - href: http://arxiv.org/rss/stat.ML 
+  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+  - href: https://css-tricks.com/feed/
+  - href: https://www.smashingmagazine.com/feed/
+  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://blog.statsbot.co/feed/ 
+  - href: https://eng.uber.com/tag/machine-learning/feed/
+  - href: https://aws.amazon.com/blogs/machine-learning/feed/ 
+  - href: http://arxiv.org/rss/cs.DB/ 
+  - href: http://arxiv.org/rss/cs.LG/ 
+  - href: http://news.mit.edu/rss/topic/machine-learning/ 
+  - href: https://www.reddit.com/r/MachineLearning/.rss/ 
+  - href: http://arxiv.org/rss/stat.ML/ 
   - href: https://madewithml.com/newsletter/ 
-  - href: https://mlinproduction.com/feed 
+  - href: https://mlinproduction.com/feed/ 
   - href: https://jalammar.github.io/feed.xml 
   - href: http://proceedings.mlr.press//feed.xml 
   - href: https://distill.pub/rss.xml 
-  - href: https://www.inference.vc/rss 
+  - href: https://www.inference.vc/rss/ 
 

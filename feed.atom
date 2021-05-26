@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T13:35:16.559Z</updated>
+    <updated>2021-05-26T13:39:53.873Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
@@ -24,6 +24,46 @@ Thank you @Zenigata]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Slender robotic finger senses buried items]]></title>
+        <id>https://news.mit.edu/2021/robotic-finger-buried-underground-0526</id>
+        <link href="https://news.mit.edu/2021/robotic-finger-buried-underground-0526"/>
+        <updated>2021-05-26T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.]]></summary>
+        <author>
+            <name>Daniel Ackerman | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slender robotic finger senses buried items]]></title>
+        <id>https://news.mit.edu/2021/robotic-finger-buried-underground-0526</id>
+        <link href="https://news.mit.edu/2021/robotic-finger-buried-underground-0526"/>
+        <updated>2021-05-26T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.]]></summary>
+        <author>
+            <name>Daniel Ackerman | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slender robotic finger senses buried items]]></title>
+        <id>https://news.mit.edu/2021/robotic-finger-buried-underground-0526</id>
+        <link href="https://news.mit.edu/2021/robotic-finger-buried-underground-0526"/>
+        <updated>2021-05-26T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.]]></summary>
+        <author>
+            <name>Daniel Ackerman | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twelve from MIT awarded 2021 Fulbright Fellowships]]></title>
+        <id>https://news.mit.edu/2021/twelve-mit-awarded-fulbright-fellowships-0524</id>
+        <link href="https://news.mit.edu/2021/twelve-mit-awarded-fulbright-fellowships-0524"/>
+        <updated>2021-05-24T16:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Grants will support their research, graduate study, and teaching abroad in 2021-22.]]></summary>
+        <author>
+            <name>Julia Mongo | Office of Distinguished Fellowships</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[v1.8.1]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1"/>
@@ -42,6 +82,76 @@ Thank you @Zenigata]]></summary>
 Thank you: @LooperXX.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There’s a symphony in the antibody protein the body makes to neutralize the coronavirus]]></title>
+        <id>https://news.mit.edu/2021/symphony-antibody-protein-body-makes-neutralize-coronavirus-0521</id>
+        <link href="https://news.mit.edu/2021/symphony-antibody-protein-body-makes-neutralize-coronavirus-0521"/>
+        <updated>2021-05-21T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Professor Markus Buehler composed it, and a South Korean orchestra performed it; it’s the latest in a series of artistic collaborations sparked by Buehler’s exploration of the structure of SARS-CoV-2.]]></summary>
+        <author>
+            <name>Kim Martineau | MIT Quest for Intelligence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeremy Kepner named SIAM Fellow]]></title>
+        <id>https://news.mit.edu/2021/jeremy-kepner-named-siam-fellow-0521</id>
+        <link href="https://news.mit.edu/2021/jeremy-kepner-named-siam-fellow-0521"/>
+        <updated>2021-05-21T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Society for Industrial and Applied Mathematics recognizes Kepner, a pivotal member of the team that established Lincoln Laboratory's Supercomputing Center, for his innovative work in computing.]]></summary>
+        <author>
+            <name>Dorothy Ryan | Lincoln Laboratory</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving the way videos are organized]]></title>
+        <id>https://news.mit.edu/2021/netra-video-ai-0520</id>
+        <link href="https://news.mit.edu/2021/netra-video-ai-0520"/>
+        <updated>2021-05-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content.]]></summary>
+        <author>
+            <name>Zach Winn | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving the way videos are organized]]></title>
+        <id>https://news.mit.edu/2021/netra-video-ai-0520</id>
+        <link href="https://news.mit.edu/2021/netra-video-ai-0520"/>
+        <updated>2021-05-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content.]]></summary>
+        <author>
+            <name>Zach Winn | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind Covid-19 vaccine development]]></title>
+        <id>https://news.mit.edu/2021/behind-covid-19-vaccine-development-0518</id>
+        <link href="https://news.mit.edu/2021/behind-covid-19-vaccine-development-0518"/>
+        <updated>2021-05-18T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A machine learning model developed jointly by Janssen and MIT data scientists played a key role in the clinical trial process for the Johnson & Johnson Covid-19 vaccine.]]></summary>
+        <author>
+            <name>Terri Park | MIT Schwarzman College of Computing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helping students of all ages flourish in the era of artificial intelligence]]></title>
+        <id>https://news.mit.edu/2021/raise-artificial-intelligence-0518</id>
+        <link href="https://news.mit.edu/2021/raise-artificial-intelligence-0518"/>
+        <updated>2021-05-18T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Responsible AI for Social Empowerment and Education (RAISE) seeks to empower more people to participate in, and benefit from, AI.]]></summary>
+        <author>
+            <name>Daniel Ackerman | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helping students of all ages flourish in the era of artificial intelligence]]></title>
+        <id>https://news.mit.edu/2021/raise-artificial-intelligence-0518</id>
+        <link href="https://news.mit.edu/2021/raise-artificial-intelligence-0518"/>
+        <updated>2021-05-18T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Responsible AI for Social Empowerment and Education (RAISE) seeks to empower more people to participate in, and benefit from, AI.]]></summary>
+        <author>
+            <name>Daniel Ackerman | MIT News Office</name>
         </author>
     </entry>
     <entry>
@@ -75,6 +185,76 @@ Chore: rendering logic refactoring. Adopting functional paradigm.
 Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helping robots collaborate to get the job done]]></title>
+        <id>https://news.mit.edu/2021/robots-collaborate-search-0513</id>
+        <link href="https://news.mit.edu/2021/robots-collaborate-search-0513"/>
+        <updated>2021-05-13T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Algorithm enables robot teams to complete missions, such as mapping or search-and-rescue, with minimal wasted effort.]]></summary>
+        <author>
+            <name>Daniel Ackerman | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helping robots collaborate to get the job done]]></title>
+        <id>https://news.mit.edu/2021/robots-collaborate-search-0513</id>
+        <link href="https://news.mit.edu/2021/robots-collaborate-search-0513"/>
+        <updated>2021-05-13T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Algorithm enables robot teams to complete missions, such as mapping or search-and-rescue, with minimal wasted effort.]]></summary>
+        <author>
+            <name>Daniel Ackerman | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helping robots collaborate to get the job done]]></title>
+        <id>https://news.mit.edu/2021/robots-collaborate-search-0513</id>
+        <link href="https://news.mit.edu/2021/robots-collaborate-search-0513"/>
+        <updated>2021-05-13T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Algorithm enables robot teams to complete missions, such as mapping or search-and-rescue, with minimal wasted effort.]]></summary>
+        <author>
+            <name>Daniel Ackerman | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building robots to expand access to cell therapies]]></title>
+        <id>https://news.mit.edu/2021/multiply-labs-cell-therapy-0512</id>
+        <link href="https://news.mit.edu/2021/multiply-labs-cell-therapy-0512"/>
+        <updated>2021-05-12T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Alumni-founded Multiply Labs uses an automated manufacturing platform to produce advanced treatments at scale.]]></summary>
+        <author>
+            <name>Zach Winn | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New system cleans messy data tables automatically]]></title>
+        <id>https://news.mit.edu/2021/system-cleans-messy-data-tables-automatically-0511</id>
+        <link href="https://news.mit.edu/2021/system-cleans-messy-data-tables-automatically-0511"/>
+        <updated>2021-05-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With just 50 lines of code, the program spots and fixes likely errors.]]></summary>
+        <author>
+            <name>Rachel Paiste | Department of Brain and Cognitive Sciences</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New system cleans messy data tables automatically]]></title>
+        <id>https://news.mit.edu/2021/system-cleans-messy-data-tables-automatically-0511</id>
+        <link href="https://news.mit.edu/2021/system-cleans-messy-data-tables-automatically-0511"/>
+        <updated>2021-05-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With just 50 lines of code, the program spots and fixes likely errors.]]></summary>
+        <author>
+            <name>Rachel Paiste | Department of Brain and Cognitive Sciences</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A comprehensive map of the SARS-CoV-2 genome]]></title>
+        <id>https://news.mit.edu/2021/map-sars-cov-2-genome-0511</id>
+        <link href="https://news.mit.edu/2021/map-sars-cov-2-genome-0511"/>
+        <updated>2021-05-11T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MIT researchers have determined the virus’ protein-coding gene set and analyzed new mutations’ likelihood of helping the virus adapt.]]></summary>
+        <author>
+            <name>Anne Trafton | MIT News Office</name>
         </author>
     </entry>
     <entry>
@@ -118,6 +298,36 @@ Chore: Excluded testing files from repo.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A robot that can help you untangle your hair]]></title>
+        <id>https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505</id>
+        <link href="https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505"/>
+        <updated>2021-05-05T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Robotic arm equipped with a hairbrush helps with brushing tasks and could be an asset in assistive-care settings.]]></summary>
+        <author>
+            <name>Rachel Gordon | MIT CSAIL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A robot that can help you untangle your hair]]></title>
+        <id>https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505</id>
+        <link href="https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505"/>
+        <updated>2021-05-05T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Robotic arm equipped with a hairbrush helps with brushing tasks and could be an asset in assistive-care settings.]]></summary>
+        <author>
+            <name>Rachel Gordon | MIT CSAIL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A robot that can help you untangle your hair]]></title>
+        <id>https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505</id>
+        <link href="https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505"/>
+        <updated>2021-05-05T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Robotic arm equipped with a hairbrush helps with brushing tasks and could be an asset in assistive-care settings.]]></summary>
+        <author>
+            <name>Rachel Gordon | MIT CSAIL</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[v1.3.1]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
@@ -128,6 +338,96 @@ Fixed: Typo in docs.
 Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Media Advisory — MIT researchers: AI policy needed to manage impacts, build more equitable systems]]></title>
+        <id>https://news.mit.edu/2021/media-advisory-mit-researchers-ai-policy-needed-manage-impacts-build-more-equitable-systems</id>
+        <link href="https://news.mit.edu/2021/media-advisory-mit-researchers-ai-policy-needed-manage-impacts-build-more-equitable-systems"/>
+        <updated>2021-05-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On May 6 and 7, researchers from the AI Policy Forum will present their preliminary AI public policy proposals aimed at shaping specific and significant uses of AI in our lives.]]></summary>
+        <author>
+            <name>MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Media Advisory — MIT researchers: AI policy needed to manage impacts, build more equitable systems]]></title>
+        <id>https://news.mit.edu/2021/media-advisory-mit-researchers-ai-policy-needed-manage-impacts-build-more-equitable-systems</id>
+        <link href="https://news.mit.edu/2021/media-advisory-mit-researchers-ai-policy-needed-manage-impacts-build-more-equitable-systems"/>
+        <updated>2021-05-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On May 6 and 7, researchers from the AI Policy Forum will present their preliminary AI public policy proposals aimed at shaping specific and significant uses of AI in our lives.]]></summary>
+        <author>
+            <name>MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nano flashlight enables new applications of light]]></title>
+        <id>https://news.mit.edu/2021/nano-flashlight-enables-new-applications-light-0504</id>
+        <link href="https://news.mit.edu/2021/nano-flashlight-enables-new-applications-light-0504"/>
+        <updated>2021-05-04T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Design of miniature optical systems could lead to future cell phones that can detect viruses and more.]]></summary>
+        <author>
+            <name>Elizabeth A. Thomson | Materials Research Laboratory</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate solutions depend on technology, policy, and businesses working together]]></title>
+        <id>https://news.mit.edu/2021/climate-solutions-depend-on-technology-policy-businesses-working-together-0504</id>
+        <link href="https://news.mit.edu/2021/climate-solutions-depend-on-technology-policy-businesses-working-together-0504"/>
+        <updated>2021-05-04T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[At MIT Forefront, industry and Institute leaders discuss how businesses play a pivotal role in deploying new technologies that will mitigate climate change.]]></summary>
+        <author>
+            <name>MIT Resource Department</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With a zap of light, system switches objects’ colors and patterns]]></title>
+        <id>https://news.mit.edu/2021/light-colors-patterns-surface-0504</id>
+        <link href="https://news.mit.edu/2021/light-colors-patterns-surface-0504"/>
+        <updated>2021-05-04T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Programmable matter” technique could enable product designers to churn out prototypes with ease.]]></summary>
+        <author>
+            <name>Daniel Ackerman | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Undergraduates explore practical applications of artificial intelligence]]></title>
+        <id>https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503</id>
+        <link href="https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503"/>
+        <updated>2021-05-03T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[SuperUROP scholars apply deep learning to improve accuracy of climate models, profitably match computers in the cloud with customers, and more.]]></summary>
+        <author>
+            <name>Kim Martineau | MIT Quest for Intelligence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Undergraduates explore practical applications of artificial intelligence]]></title>
+        <id>https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503</id>
+        <link href="https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503"/>
+        <updated>2021-05-03T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[SuperUROP scholars apply deep learning to improve accuracy of climate models, profitably match computers in the cloud with customers, and more.]]></summary>
+        <author>
+            <name>Kim Martineau | MIT Quest for Intelligence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Q&A: Vivienne Sze on crossing the hardware-software divide for efficient artificial intelligence]]></title>
+        <id>https://news.mit.edu/2021/vivienne-sze-crossing-hardware-software-divide-efficient-ai-0428</id>
+        <link href="https://news.mit.edu/2021/vivienne-sze-crossing-hardware-software-divide-efficient-ai-0428"/>
+        <updated>2021-04-28T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Her research focuses on more-efficient deep neural networks to process video, and more-efficient hardware to run applications.]]></summary>
+        <author>
+            <name>Kim Martineau | MIT Quest for Intelligence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Q&A: Vivienne Sze on crossing the hardware-software divide for efficient artificial intelligence]]></title>
+        <id>https://news.mit.edu/2021/vivienne-sze-crossing-hardware-software-divide-efficient-ai-0428</id>
+        <link href="https://news.mit.edu/2021/vivienne-sze-crossing-hardware-software-divide-efficient-ai-0428"/>
+        <updated>2021-04-28T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Her research focuses on more-efficient deep neural networks to process video, and more-efficient hardware to run applications.]]></summary>
+        <author>
+            <name>Kim Martineau | MIT Quest for Intelligence</name>
         </author>
     </entry>
 </feed>

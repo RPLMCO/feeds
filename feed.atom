@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T00:54:10.754Z</updated>
+    <updated>2021-05-28T01:00:32.753Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Artificial intelligence system could help counter the spread of disinformation]]></title>
+        <id>https://news.mit.edu/2021/artificial-intelligence-system-could-help-counter-spread-disinformation-0527</id>
+        <link href="https://news.mit.edu/2021/artificial-intelligence-system-could-help-counter-spread-disinformation-0527"/>
+        <updated>2021-05-27T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Built at MIT Lincoln Laboratory, the RIO program automatically detects and analyzes social media accounts that spread disinformation across a network.]]></summary>
+        <author>
+            <name>Anne McGovern | Lincoln Laboratory</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New algorithms show accuracy, reliability in gauging unconsciousness under general anesthesia]]></title>
         <id>https://news.mit.edu/2021/new-algorithms-show-accuracy-reliability-gauging-unconsciousness-under-general-anesthesia-0526</id>

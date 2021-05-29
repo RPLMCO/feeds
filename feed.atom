@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T01:00:32.753Z</updated>
+    <updated>2021-05-29T01:12:13.039Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
@@ -426,26 +426,6 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         <link href="https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503"/>
         <updated>2021-05-03T19:40:00.000Z</updated>
         <summary type="html"><![CDATA[SuperUROP scholars apply deep learning to improve accuracy of climate models, profitably match computers in the cloud with customers, and more.]]></summary>
-        <author>
-            <name>Kim Martineau | MIT Quest for Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Q&A: Vivienne Sze on crossing the hardware-software divide for efficient artificial intelligence]]></title>
-        <id>https://news.mit.edu/2021/vivienne-sze-crossing-hardware-software-divide-efficient-ai-0428</id>
-        <link href="https://news.mit.edu/2021/vivienne-sze-crossing-hardware-software-divide-efficient-ai-0428"/>
-        <updated>2021-04-28T20:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Her research focuses on more-efficient deep neural networks to process video, and more-efficient hardware to run applications.]]></summary>
-        <author>
-            <name>Kim Martineau | MIT Quest for Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Q&A: Vivienne Sze on crossing the hardware-software divide for efficient artificial intelligence]]></title>
-        <id>https://news.mit.edu/2021/vivienne-sze-crossing-hardware-software-divide-efficient-ai-0428</id>
-        <link href="https://news.mit.edu/2021/vivienne-sze-crossing-hardware-software-divide-efficient-ai-0428"/>
-        <updated>2021-04-28T20:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Her research focuses on more-efficient deep neural networks to process video, and more-efficient hardware to run applications.]]></summary>
         <author>
             <name>Kim Martineau | MIT Quest for Intelligence</name>
         </author>

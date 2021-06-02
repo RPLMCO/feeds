@@ -6,12 +6,21 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "author": null,
+          "description": "Added: testing and CI/CD workflows",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "publishedOn": "2021-06-01T04:39:30.000Z",
+          "wordCount": 268,
+          "title": "v1.10.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "author": null,
           "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "publishedOn": "2021-05-26T06:02:55.000Z",
-          "wordCount": 417,
+          "wordCount": 413,
           "title": "v1.9.0"
         },
         {
@@ -85,15 +94,6 @@
           "publishedOn": "2021-05-08T05:16:47.000Z",
           "wordCount": 306,
           "title": "v1.5.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "author": null,
-          "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "publishedOn": "2021-05-05T05:19:57.000Z",
-          "wordCount": 285,
-          "title": "v1.3.1"
         }
       ]
     },
@@ -103,12 +103,21 @@
       "siteUrl": "https://news.mit.edu/rss/topic/robotics",
       "articles": [
         {
+          "id": "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601",
+          "author": "MIT Schwarzman College of Computing",
+          "description": "Nearly 1,400 joined the AI for Health Care Equity Conference that explored new AI technologies as a platform for change.",
+          "link": "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601",
+          "publishedOn": "2021-06-01T17:50:00.000Z",
+          "wordCount": 2195,
+          "title": "The potential of artificial intelligence to bring equity in health care"
+        },
+        {
           "id": "https://news.mit.edu/2021/artificial-intelligence-system-could-help-counter-spread-disinformation-0527",
           "author": "Anne McGovern | Lincoln Laboratory",
           "description": "Built at MIT Lincoln Laboratory, the RIO program automatically detects and analyzes social media accounts that spread disinformation across a network.",
           "link": "https://news.mit.edu/2021/artificial-intelligence-system-could-help-counter-spread-disinformation-0527",
           "publishedOn": "2021-05-27T19:45:00.000Z",
-          "wordCount": 1419,
+          "wordCount": 1423,
           "title": "Artificial intelligence system could help counter the spread of disinformation"
         },
         {
@@ -117,7 +126,7 @@
           "description": "Machine learning software advances could help anesthesiologists optimize drug dose.",
           "link": "https://news.mit.edu/2021/new-algorithms-show-accuracy-reliability-gauging-unconsciousness-under-general-anesthesia-0526",
           "publishedOn": "2021-05-26T19:30:00.000Z",
-          "wordCount": 1906,
+          "wordCount": 1908,
           "title": "New algorithms show accuracy, reliability in gauging unconsciousness under general anesthesia"
         },
         {
@@ -126,7 +135,7 @@
           "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
           "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
           "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 1976,
+          "wordCount": 1978,
           "title": "Slender robotic finger senses buried items"
         },
         {
@@ -135,7 +144,7 @@
           "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
           "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
           "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 1976,
+          "wordCount": 1978,
           "title": "Slender robotic finger senses buried items"
         },
         {
@@ -144,7 +153,7 @@
           "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
           "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
           "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 1976,
+          "wordCount": 1978,
           "title": "Slender robotic finger senses buried items"
         },
         {
@@ -153,7 +162,7 @@
           "description": "Grants will support their research, graduate study, and teaching abroad in 2021-22.",
           "link": "https://news.mit.edu/2021/twelve-mit-awarded-fulbright-fellowships-0524",
           "publishedOn": "2021-05-24T16:25:00.000Z",
-          "wordCount": 2064,
+          "wordCount": 2066,
           "title": "Twelve from MIT awarded 2021 Fulbright Fellowships"
         },
         {
@@ -162,7 +171,7 @@
           "description": "Professor Markus Buehler composed it, and a South Korean orchestra performed it; it’s the latest in a series of artistic collaborations sparked by Buehler’s exploration of the structure of SARS-CoV-2.",
           "link": "https://news.mit.edu/2021/symphony-antibody-protein-body-makes-neutralize-coronavirus-0521",
           "publishedOn": "2021-05-21T20:00:00.000Z",
-          "wordCount": 2288,
+          "wordCount": 2290,
           "title": "There’s a symphony in the antibody protein the body makes to neutralize the coronavirus"
         },
         {
@@ -171,7 +180,7 @@
           "description": "Society for Industrial and Applied Mathematics recognizes Kepner, a pivotal member of the team that established Lincoln Laboratory's Supercomputing Center, for his innovative work in computing.",
           "link": "https://news.mit.edu/2021/jeremy-kepner-named-siam-fellow-0521",
           "publishedOn": "2021-05-21T19:15:00.000Z",
-          "wordCount": 1406,
+          "wordCount": 1408,
           "title": "Jeremy Kepner named SIAM Fellow"
         },
         {
@@ -180,7 +189,7 @@
           "description": "Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content.",
           "link": "https://news.mit.edu/2021/netra-video-ai-0520",
           "publishedOn": "2021-05-20T04:00:00.000Z",
-          "wordCount": 1867,
+          "wordCount": 1869,
           "title": "Improving the way videos are organized"
         },
         {
@@ -189,7 +198,7 @@
           "description": "Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content.",
           "link": "https://news.mit.edu/2021/netra-video-ai-0520",
           "publishedOn": "2021-05-20T04:00:00.000Z",
-          "wordCount": 1867,
+          "wordCount": 1869,
           "title": "Improving the way videos are organized"
         },
         {
@@ -198,7 +207,7 @@
           "description": "A machine learning model developed jointly by Janssen and MIT data scientists played a key role in the clinical trial process for the Johnson & Johnson Covid-19 vaccine.",
           "link": "https://news.mit.edu/2021/behind-covid-19-vaccine-development-0518",
           "publishedOn": "2021-05-18T17:00:00.000Z",
-          "wordCount": 2305,
+          "wordCount": 2307,
           "title": "Behind Covid-19 vaccine development"
         },
         {
@@ -207,7 +216,7 @@
           "description": "Responsible AI for Social Empowerment and Education (RAISE) seeks to empower more people to participate in, and benefit from, AI.",
           "link": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
           "publishedOn": "2021-05-18T04:00:00.000Z",
-          "wordCount": 2010,
+          "wordCount": 2012,
           "title": "Helping students of all ages flourish in the era of artificial intelligence"
         },
         {
@@ -216,7 +225,7 @@
           "description": "Responsible AI for Social Empowerment and Education (RAISE) seeks to empower more people to participate in, and benefit from, AI.",
           "link": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
           "publishedOn": "2021-05-18T04:00:00.000Z",
-          "wordCount": 2010,
+          "wordCount": 2012,
           "title": "Helping students of all ages flourish in the era of artificial intelligence"
         },
         {
@@ -225,7 +234,7 @@
           "description": "Algorithm enables robot teams to complete missions, such as mapping or search-and-rescue, with minimal wasted effort.",
           "link": "https://news.mit.edu/2021/robots-collaborate-search-0513",
           "publishedOn": "2021-05-13T16:00:00.000Z",
-          "wordCount": 1609,
+          "wordCount": 1611,
           "title": "Helping robots collaborate to get the job done"
         },
         {
@@ -234,7 +243,7 @@
           "description": "Algorithm enables robot teams to complete missions, such as mapping or search-and-rescue, with minimal wasted effort.",
           "link": "https://news.mit.edu/2021/robots-collaborate-search-0513",
           "publishedOn": "2021-05-13T16:00:00.000Z",
-          "wordCount": 1609,
+          "wordCount": 1611,
           "title": "Helping robots collaborate to get the job done"
         },
         {
@@ -243,7 +252,7 @@
           "description": "Algorithm enables robot teams to complete missions, such as mapping or search-and-rescue, with minimal wasted effort.",
           "link": "https://news.mit.edu/2021/robots-collaborate-search-0513",
           "publishedOn": "2021-05-13T16:00:00.000Z",
-          "wordCount": 1609,
+          "wordCount": 1611,
           "title": "Helping robots collaborate to get the job done"
         },
         {
@@ -252,7 +261,7 @@
           "description": "Alumni-founded Multiply Labs uses an automated manufacturing platform to produce advanced treatments at scale.",
           "link": "https://news.mit.edu/2021/multiply-labs-cell-therapy-0512",
           "publishedOn": "2021-05-12T21:00:00.000Z",
-          "wordCount": 1953,
+          "wordCount": 1955,
           "title": "Building robots to expand access to cell therapies"
         },
         {
@@ -261,7 +270,7 @@
           "description": "With just 50 lines of code, the program spots and fixes likely errors.",
           "link": "https://news.mit.edu/2021/system-cleans-messy-data-tables-automatically-0511",
           "publishedOn": "2021-05-11T13:00:00.000Z",
-          "wordCount": 2313,
+          "wordCount": 2315,
           "title": "New system cleans messy data tables automatically"
         },
         {
@@ -270,7 +279,7 @@
           "description": "With just 50 lines of code, the program spots and fixes likely errors.",
           "link": "https://news.mit.edu/2021/system-cleans-messy-data-tables-automatically-0511",
           "publishedOn": "2021-05-11T13:00:00.000Z",
-          "wordCount": 2313,
+          "wordCount": 2315,
           "title": "New system cleans messy data tables automatically"
         },
         {
@@ -279,7 +288,7 @@
           "description": "MIT researchers have determined the virus’ protein-coding gene set and analyzed new mutations’ likelihood of helping the virus adapt.",
           "link": "https://news.mit.edu/2021/map-sars-cov-2-genome-0511",
           "publishedOn": "2021-05-11T09:00:00.000Z",
-          "wordCount": 1987,
+          "wordCount": 1989,
           "title": "A comprehensive map of the SARS-CoV-2 genome"
         },
         {
@@ -288,7 +297,7 @@
           "description": "Robotic arm equipped with a hairbrush helps with brushing tasks and could be an asset in assistive-care settings.",
           "link": "https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505",
           "publishedOn": "2021-05-05T17:30:00.000Z",
-          "wordCount": 1543,
+          "wordCount": 1545,
           "title": "A robot that can help you untangle your hair"
         },
         {
@@ -297,7 +306,7 @@
           "description": "Robotic arm equipped with a hairbrush helps with brushing tasks and could be an asset in assistive-care settings.",
           "link": "https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505",
           "publishedOn": "2021-05-05T17:30:00.000Z",
-          "wordCount": 1543,
+          "wordCount": 1545,
           "title": "A robot that can help you untangle your hair"
         },
         {
@@ -306,7 +315,7 @@
           "description": "Robotic arm equipped with a hairbrush helps with brushing tasks and could be an asset in assistive-care settings.",
           "link": "https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505",
           "publishedOn": "2021-05-05T17:30:00.000Z",
-          "wordCount": 1543,
+          "wordCount": 1545,
           "title": "A robot that can help you untangle your hair"
         },
         {
@@ -315,7 +324,7 @@
           "description": "On May 6 and 7, researchers from the AI Policy Forum will present their preliminary AI public policy proposals aimed at shaping specific and significant uses of AI in our lives.",
           "link": "https://news.mit.edu/2021/media-advisory-mit-researchers-ai-policy-needed-manage-impacts-build-more-equitable-systems",
           "publishedOn": "2021-05-04T18:00:00.000Z",
-          "wordCount": 1275,
+          "wordCount": 1277,
           "title": "Media Advisory — MIT researchers: AI policy needed to manage impacts, build more equitable systems"
         },
         {
@@ -324,7 +333,7 @@
           "description": "On May 6 and 7, researchers from the AI Policy Forum will present their preliminary AI public policy proposals aimed at shaping specific and significant uses of AI in our lives.",
           "link": "https://news.mit.edu/2021/media-advisory-mit-researchers-ai-policy-needed-manage-impacts-build-more-equitable-systems",
           "publishedOn": "2021-05-04T18:00:00.000Z",
-          "wordCount": 1275,
+          "wordCount": 1277,
           "title": "Media Advisory — MIT researchers: AI policy needed to manage impacts, build more equitable systems"
         },
         {
@@ -333,7 +342,7 @@
           "description": "Design of miniature optical systems could lead to future cell phones that can detect viruses and more.",
           "link": "https://news.mit.edu/2021/nano-flashlight-enables-new-applications-light-0504",
           "publishedOn": "2021-05-04T17:10:00.000Z",
-          "wordCount": 1709,
+          "wordCount": 1711,
           "title": "Nano flashlight enables new applications of light"
         },
         {
@@ -342,7 +351,7 @@
           "description": "At MIT Forefront, industry and Institute leaders discuss how businesses play a pivotal role in deploying new technologies that will mitigate climate change.",
           "link": "https://news.mit.edu/2021/climate-solutions-depend-on-technology-policy-businesses-working-together-0504",
           "publishedOn": "2021-05-04T15:50:00.000Z",
-          "wordCount": 1928,
+          "wordCount": 1930,
           "title": "Climate solutions depend on technology, policy, and businesses working together"
         },
         {
@@ -351,7 +360,7 @@
           "description": "“Programmable matter” technique could enable product designers to churn out prototypes with ease.",
           "link": "https://news.mit.edu/2021/light-colors-patterns-surface-0504",
           "publishedOn": "2021-05-04T04:00:00.000Z",
-          "wordCount": 1653,
+          "wordCount": 1655,
           "title": "With a zap of light, system switches objects’ colors and patterns"
         },
         {
@@ -360,7 +369,7 @@
           "description": "SuperUROP scholars apply deep learning to improve accuracy of climate models, profitably match computers in the cloud with customers, and more.",
           "link": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
           "publishedOn": "2021-05-03T19:40:00.000Z",
-          "wordCount": 2072,
+          "wordCount": 2074,
           "title": "Undergraduates explore practical applications of artificial intelligence"
         },
         {
@@ -369,11 +378,11 @@
           "description": "SuperUROP scholars apply deep learning to improve accuracy of climate models, profitably match computers in the cloud with customers, and more.",
           "link": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
           "publishedOn": "2021-05-03T19:40:00.000Z",
-          "wordCount": 2072,
+          "wordCount": 2074,
           "title": "Undergraduates explore practical applications of artificial intelligence"
         }
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T01:57:34.210Z</updated>
+    <updated>2021-06-03T01:37:26.124Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accelerating AI at the speed of light]]></title>
+        <id>https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602</id>
+        <link href="https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602"/>
+        <updated>2021-06-02T19:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Yichen Shen PhD '16 is CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence.]]></summary>
+        <author>
+            <name>Daniel de Wolff | MIT Startup Exchange</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The potential of artificial intelligence to bring equity in health care]]></title>
         <id>https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601</id>
@@ -405,36 +415,6 @@ Chore: Excluded testing files from repo.]]></summary>
         <summary type="html"><![CDATA[At MIT Forefront, industry and Institute leaders discuss how businesses play a pivotal role in deploying new technologies that will mitigate climate change.]]></summary>
         <author>
             <name>MIT Resource Department</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With a zap of light, system switches objects’ colors and patterns]]></title>
-        <id>https://news.mit.edu/2021/light-colors-patterns-surface-0504</id>
-        <link href="https://news.mit.edu/2021/light-colors-patterns-surface-0504"/>
-        <updated>2021-05-04T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Programmable matter” technique could enable product designers to churn out prototypes with ease.]]></summary>
-        <author>
-            <name>Daniel Ackerman | MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undergraduates explore practical applications of artificial intelligence]]></title>
-        <id>https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503</id>
-        <link href="https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503"/>
-        <updated>2021-05-03T19:40:00.000Z</updated>
-        <summary type="html"><![CDATA[SuperUROP scholars apply deep learning to improve accuracy of climate models, profitably match computers in the cloud with customers, and more.]]></summary>
-        <author>
-            <name>Kim Martineau | MIT Quest for Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undergraduates explore practical applications of artificial intelligence]]></title>
-        <id>https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503</id>
-        <link href="https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503"/>
-        <updated>2021-05-03T19:40:00.000Z</updated>
-        <summary type="html"><![CDATA[SuperUROP scholars apply deep learning to improve accuracy of climate models, profitably match computers in the cloud with customers, and more.]]></summary>
-        <author>
-            <name>Kim Martineau | MIT Quest for Intelligence</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T01:37:26.124Z</updated>
+    <updated>2021-06-04T01:23:08.774Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring the future of humanitarian technology]]></title>
+        <id>https://news.mit.edu/2021/exploring-future-humanitarian-technology-0603</id>
+        <link href="https://news.mit.edu/2021/exploring-future-humanitarian-technology-0603"/>
+        <updated>2021-06-03T19:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Technology solutions to climate change, disaster response, and global health challenges are up for discussion in a new Lincoln Laboratory lecture series.]]></summary>
+        <author>
+            <name>Kylie Foy | Lincoln Laboratory</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engineers create a programmable fiber]]></title>
+        <id>https://news.mit.edu/2021/programmable-fiber-0603</id>
+        <link href="https://news.mit.edu/2021/programmable-fiber-0603"/>
+        <updated>2021-06-03T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a first, the digital fiber contains memory, temperature sensors, and a trained neural network program for inferring physical activity.]]></summary>
+        <author>
+            <name>Becky Ham | MIT News correspondent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accelerating AI at the speed of light]]></title>
         <id>https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602</id>
@@ -375,46 +395,6 @@ Chore: Excluded testing files from repo.]]></summary>
         <summary type="html"><![CDATA[Robotic arm equipped with a hairbrush helps with brushing tasks and could be an asset in assistive-care settings.]]></summary>
         <author>
             <name>Rachel Gordon | MIT CSAIL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media Advisory — MIT researchers: AI policy needed to manage impacts, build more equitable systems]]></title>
-        <id>https://news.mit.edu/2021/media-advisory-mit-researchers-ai-policy-needed-manage-impacts-build-more-equitable-systems</id>
-        <link href="https://news.mit.edu/2021/media-advisory-mit-researchers-ai-policy-needed-manage-impacts-build-more-equitable-systems"/>
-        <updated>2021-05-04T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On May 6 and 7, researchers from the AI Policy Forum will present their preliminary AI public policy proposals aimed at shaping specific and significant uses of AI in our lives.]]></summary>
-        <author>
-            <name>MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media Advisory — MIT researchers: AI policy needed to manage impacts, build more equitable systems]]></title>
-        <id>https://news.mit.edu/2021/media-advisory-mit-researchers-ai-policy-needed-manage-impacts-build-more-equitable-systems</id>
-        <link href="https://news.mit.edu/2021/media-advisory-mit-researchers-ai-policy-needed-manage-impacts-build-more-equitable-systems"/>
-        <updated>2021-05-04T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On May 6 and 7, researchers from the AI Policy Forum will present their preliminary AI public policy proposals aimed at shaping specific and significant uses of AI in our lives.]]></summary>
-        <author>
-            <name>MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nano flashlight enables new applications of light]]></title>
-        <id>https://news.mit.edu/2021/nano-flashlight-enables-new-applications-light-0504</id>
-        <link href="https://news.mit.edu/2021/nano-flashlight-enables-new-applications-light-0504"/>
-        <updated>2021-05-04T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Design of miniature optical systems could lead to future cell phones that can detect viruses and more.]]></summary>
-        <author>
-            <name>Elizabeth A. Thomson | Materials Research Laboratory</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climate solutions depend on technology, policy, and businesses working together]]></title>
-        <id>https://news.mit.edu/2021/climate-solutions-depend-on-technology-policy-businesses-working-together-0504</id>
-        <link href="https://news.mit.edu/2021/climate-solutions-depend-on-technology-policy-businesses-working-together-0504"/>
-        <updated>2021-05-04T15:50:00.000Z</updated>
-        <summary type="html"><![CDATA[At MIT Forefront, industry and Institute leaders discuss how businesses play a pivotal role in deploying new technologies that will mitigate climate change.]]></summary>
-        <author>
-            <name>MIT Resource Department</name>
         </author>
     </entry>
 </feed>

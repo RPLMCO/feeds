@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T01:23:08.774Z</updated>
+    <updated>2021-06-05T01:03:55.320Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
@@ -365,36 +365,6 @@ Changed: Favicon, css, and js assets now existing at site root level.
 Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A robot that can help you untangle your hair]]></title>
-        <id>https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505</id>
-        <link href="https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505"/>
-        <updated>2021-05-05T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Robotic arm equipped with a hairbrush helps with brushing tasks and could be an asset in assistive-care settings.]]></summary>
-        <author>
-            <name>Rachel Gordon | MIT CSAIL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A robot that can help you untangle your hair]]></title>
-        <id>https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505</id>
-        <link href="https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505"/>
-        <updated>2021-05-05T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Robotic arm equipped with a hairbrush helps with brushing tasks and could be an asset in assistive-care settings.]]></summary>
-        <author>
-            <name>Rachel Gordon | MIT CSAIL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A robot that can help you untangle your hair]]></title>
-        <id>https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505</id>
-        <link href="https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505"/>
-        <updated>2021-05-05T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Robotic arm equipped with a hairbrush helps with brushing tasks and could be an asset in assistive-care settings.]]></summary>
-        <author>
-            <name>Rachel Gordon | MIT CSAIL</name>
         </author>
     </entry>
 </feed>

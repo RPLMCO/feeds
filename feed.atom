@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T00:56:30.119Z</updated>
+    <updated>2021-06-08T00:56:22.865Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unleashing capacity at Heineken México with systems thinking from MIT]]></title>
+        <id>https://news.mit.edu/2021/unleashing-capacity-heineken-mexico-with-systems-thinking-from-mit-0607</id>
+        <link href="https://news.mit.edu/2021/unleashing-capacity-heineken-mexico-with-systems-thinking-from-mit-0607"/>
+        <updated>2021-06-07T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[How a pair of MIT Sloan Executive Education alumni translated teachings from an MIT course to operations improvements at Mexico’s largest brewery.]]></summary>
+        <author>
+            <name>MIT Sloan Executive Education</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny particles power chemical reactions]]></title>
+        <id>https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607</id>
+        <link href="https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607"/>
+        <updated>2021-06-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new material made from carbon nanotubes can generate electricity by scavenging energy from its environment.]]></summary>
+        <author>
+            <name>Anne Trafton | MIT News Office</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On a quest through uncharted territory]]></title>
         <id>https://news.mit.edu/2021/ankur-moitra-0606</id>

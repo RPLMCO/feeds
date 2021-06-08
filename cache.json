@@ -94,12 +94,30 @@
       "siteUrl": "https://news.mit.edu/rss/topic/robotics",
       "articles": [
         {
+          "id": "https://news.mit.edu/2021/unleashing-capacity-heineken-mexico-with-systems-thinking-from-mit-0607",
+          "author": "MIT Sloan Executive Education",
+          "description": "How a pair of MIT Sloan Executive Education alumni translated teachings from an MIT course to operations improvements at Mexico’s largest brewery.",
+          "link": "https://news.mit.edu/2021/unleashing-capacity-heineken-mexico-with-systems-thinking-from-mit-0607",
+          "publishedOn": "2021-06-07T18:35:00.000Z",
+          "wordCount": 1766,
+          "title": "Unleashing capacity at Heineken México with systems thinking from MIT"
+        },
+        {
+          "id": "https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607",
+          "author": "Anne Trafton | MIT News Office",
+          "description": "A new material made from carbon nanotubes can generate electricity by scavenging energy from its environment.",
+          "link": "https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607",
+          "publishedOn": "2021-06-07T09:00:00.000Z",
+          "wordCount": 1748,
+          "title": "Tiny particles power chemical reactions"
+        },
+        {
           "id": "https://news.mit.edu/2021/ankur-moitra-0606",
           "author": "Michaela Jarvis | MIT News correspondent",
           "description": "Math professor Ankur Moitra seeks algorithms with provable guarantees, to pin down the mechanisms of machine learning.",
           "link": "https://news.mit.edu/2021/ankur-moitra-0606",
           "publishedOn": "2021-06-06T04:00:00.000Z",
-          "wordCount": 1665,
+          "wordCount": 1650,
           "title": "On a quest through uncharted territory"
         },
         {
@@ -108,7 +126,7 @@
           "description": "Math professor Ankur Moitra seeks algorithms with provable guarantees, to pin down the mechanisms of machine learning.",
           "link": "https://news.mit.edu/2021/ankur-moitra-0606",
           "publishedOn": "2021-06-06T04:00:00.000Z",
-          "wordCount": 1665,
+          "wordCount": 1650,
           "title": "On a quest through uncharted territory"
         },
         {
@@ -117,7 +135,7 @@
           "description": "Technology solutions to climate change, disaster response, and global health challenges are up for discussion in a new Lincoln Laboratory lecture series.",
           "link": "https://news.mit.edu/2021/exploring-future-humanitarian-technology-0603",
           "publishedOn": "2021-06-03T19:20:00.000Z",
-          "wordCount": 2015,
+          "wordCount": 1997,
           "title": "Exploring the future of humanitarian technology"
         },
         {
@@ -126,7 +144,7 @@
           "description": "In a first, the digital fiber contains memory, temperature sensors, and a trained neural network program for inferring physical activity.",
           "link": "https://news.mit.edu/2021/programmable-fiber-0603",
           "publishedOn": "2021-06-03T09:00:00.000Z",
-          "wordCount": 2017,
+          "wordCount": 1999,
           "title": "Engineers create a programmable fiber"
         },
         {
@@ -135,7 +153,7 @@
           "description": "Yichen Shen PhD '16 is CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence.",
           "link": "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602",
           "publishedOn": "2021-06-02T19:25:00.000Z",
-          "wordCount": 1795,
+          "wordCount": 1777,
           "title": "Accelerating AI at the speed of light"
         },
         {
@@ -144,7 +162,7 @@
           "description": "Nearly 1,400 joined the AI for Health Care Equity Conference that explored new AI technologies as a platform for change.",
           "link": "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601",
           "publishedOn": "2021-06-01T17:50:00.000Z",
-          "wordCount": 2268,
+          "wordCount": 2250,
           "title": "The potential of artificial intelligence to bring equity in health care"
         },
         {
@@ -153,7 +171,7 @@
           "description": "Built at MIT Lincoln Laboratory, the RIO program automatically detects and analyzes social media accounts that spread disinformation across a network.",
           "link": "https://news.mit.edu/2021/artificial-intelligence-system-could-help-counter-spread-disinformation-0527",
           "publishedOn": "2021-05-27T19:45:00.000Z",
-          "wordCount": 1439,
+          "wordCount": 1421,
           "title": "Artificial intelligence system could help counter the spread of disinformation"
         },
         {
@@ -162,7 +180,7 @@
           "description": "Machine learning software advances could help anesthesiologists optimize drug dose.",
           "link": "https://news.mit.edu/2021/new-algorithms-show-accuracy-reliability-gauging-unconsciousness-under-general-anesthesia-0526",
           "publishedOn": "2021-05-26T19:30:00.000Z",
-          "wordCount": 1924,
+          "wordCount": 1906,
           "title": "New algorithms show accuracy, reliability in gauging unconsciousness under general anesthesia"
         },
         {
@@ -171,7 +189,7 @@
           "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
           "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
           "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 1994,
+          "wordCount": 1976,
           "title": "Slender robotic finger senses buried items"
         },
         {
@@ -180,7 +198,7 @@
           "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
           "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
           "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 1994,
+          "wordCount": 1976,
           "title": "Slender robotic finger senses buried items"
         },
         {
@@ -189,7 +207,7 @@
           "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
           "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
           "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 1994,
+          "wordCount": 1976,
           "title": "Slender robotic finger senses buried items"
         },
         {
@@ -198,7 +216,7 @@
           "description": "Grants will support their research, graduate study, and teaching abroad in 2021-22.",
           "link": "https://news.mit.edu/2021/twelve-mit-awarded-fulbright-fellowships-0524",
           "publishedOn": "2021-05-24T16:25:00.000Z",
-          "wordCount": 2082,
+          "wordCount": 2064,
           "title": "Twelve from MIT awarded 2021 Fulbright Fellowships"
         },
         {
@@ -207,7 +225,7 @@
           "description": "Professor Markus Buehler composed it, and a South Korean orchestra performed it; it’s the latest in a series of artistic collaborations sparked by Buehler’s exploration of the structure of SARS-CoV-2.",
           "link": "https://news.mit.edu/2021/symphony-antibody-protein-body-makes-neutralize-coronavirus-0521",
           "publishedOn": "2021-05-21T20:00:00.000Z",
-          "wordCount": 2306,
+          "wordCount": 2288,
           "title": "There’s a symphony in the antibody protein the body makes to neutralize the coronavirus"
         },
         {
@@ -216,7 +234,7 @@
           "description": "Society for Industrial and Applied Mathematics recognizes Kepner, a pivotal member of the team that established Lincoln Laboratory's Supercomputing Center, for his innovative work in computing.",
           "link": "https://news.mit.edu/2021/jeremy-kepner-named-siam-fellow-0521",
           "publishedOn": "2021-05-21T19:15:00.000Z",
-          "wordCount": 1424,
+          "wordCount": 1406,
           "title": "Jeremy Kepner named SIAM Fellow"
         },
         {
@@ -225,7 +243,7 @@
           "description": "Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content.",
           "link": "https://news.mit.edu/2021/netra-video-ai-0520",
           "publishedOn": "2021-05-20T04:00:00.000Z",
-          "wordCount": 1885,
+          "wordCount": 1867,
           "title": "Improving the way videos are organized"
         },
         {
@@ -234,7 +252,7 @@
           "description": "Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content.",
           "link": "https://news.mit.edu/2021/netra-video-ai-0520",
           "publishedOn": "2021-05-20T04:00:00.000Z",
-          "wordCount": 1885,
+          "wordCount": 1867,
           "title": "Improving the way videos are organized"
         },
         {
@@ -243,7 +261,7 @@
           "description": "A machine learning model developed jointly by Janssen and MIT data scientists played a key role in the clinical trial process for the Johnson & Johnson Covid-19 vaccine.",
           "link": "https://news.mit.edu/2021/behind-covid-19-vaccine-development-0518",
           "publishedOn": "2021-05-18T17:00:00.000Z",
-          "wordCount": 2323,
+          "wordCount": 2305,
           "title": "Behind Covid-19 vaccine development"
         },
         {
@@ -252,7 +270,7 @@
           "description": "Responsible AI for Social Empowerment and Education (RAISE) seeks to empower more people to participate in, and benefit from, AI.",
           "link": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
           "publishedOn": "2021-05-18T04:00:00.000Z",
-          "wordCount": 2028,
+          "wordCount": 2010,
           "title": "Helping students of all ages flourish in the era of artificial intelligence"
         },
         {
@@ -261,7 +279,7 @@
           "description": "Responsible AI for Social Empowerment and Education (RAISE) seeks to empower more people to participate in, and benefit from, AI.",
           "link": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
           "publishedOn": "2021-05-18T04:00:00.000Z",
-          "wordCount": 2028,
+          "wordCount": 2010,
           "title": "Helping students of all ages flourish in the era of artificial intelligence"
         },
         {
@@ -270,7 +288,7 @@
           "description": "Algorithm enables robot teams to complete missions, such as mapping or search-and-rescue, with minimal wasted effort.",
           "link": "https://news.mit.edu/2021/robots-collaborate-search-0513",
           "publishedOn": "2021-05-13T16:00:00.000Z",
-          "wordCount": 1627,
+          "wordCount": 1609,
           "title": "Helping robots collaborate to get the job done"
         },
         {
@@ -279,7 +297,7 @@
           "description": "Algorithm enables robot teams to complete missions, such as mapping or search-and-rescue, with minimal wasted effort.",
           "link": "https://news.mit.edu/2021/robots-collaborate-search-0513",
           "publishedOn": "2021-05-13T16:00:00.000Z",
-          "wordCount": 1627,
+          "wordCount": 1609,
           "title": "Helping robots collaborate to get the job done"
         },
         {
@@ -288,7 +306,7 @@
           "description": "Algorithm enables robot teams to complete missions, such as mapping or search-and-rescue, with minimal wasted effort.",
           "link": "https://news.mit.edu/2021/robots-collaborate-search-0513",
           "publishedOn": "2021-05-13T16:00:00.000Z",
-          "wordCount": 1627,
+          "wordCount": 1609,
           "title": "Helping robots collaborate to get the job done"
         },
         {
@@ -297,7 +315,7 @@
           "description": "Alumni-founded Multiply Labs uses an automated manufacturing platform to produce advanced treatments at scale.",
           "link": "https://news.mit.edu/2021/multiply-labs-cell-therapy-0512",
           "publishedOn": "2021-05-12T21:00:00.000Z",
-          "wordCount": 1971,
+          "wordCount": 1953,
           "title": "Building robots to expand access to cell therapies"
         },
         {
@@ -306,7 +324,7 @@
           "description": "With just 50 lines of code, the program spots and fixes likely errors.",
           "link": "https://news.mit.edu/2021/system-cleans-messy-data-tables-automatically-0511",
           "publishedOn": "2021-05-11T13:00:00.000Z",
-          "wordCount": 2331,
+          "wordCount": 2313,
           "title": "New system cleans messy data tables automatically"
         },
         {
@@ -315,7 +333,7 @@
           "description": "With just 50 lines of code, the program spots and fixes likely errors.",
           "link": "https://news.mit.edu/2021/system-cleans-messy-data-tables-automatically-0511",
           "publishedOn": "2021-05-11T13:00:00.000Z",
-          "wordCount": 2331,
+          "wordCount": 2313,
           "title": "New system cleans messy data tables automatically"
         },
         {
@@ -324,7 +342,7 @@
           "description": "MIT researchers have determined the virus’ protein-coding gene set and analyzed new mutations’ likelihood of helping the virus adapt.",
           "link": "https://news.mit.edu/2021/map-sars-cov-2-genome-0511",
           "publishedOn": "2021-05-11T09:00:00.000Z",
-          "wordCount": 2005,
+          "wordCount": 1987,
           "title": "A comprehensive map of the SARS-CoV-2 genome"
         }
       ]

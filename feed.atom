@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T00:34:00.787Z</updated>
+    <updated>2021-06-12T00:29:39.422Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Speeding up clinical trials by making drug production local]]></title>
+        <id>https://news.mit.edu/2021/snapdragon-drug-chemistry-0611</id>
+        <link href="https://news.mit.edu/2021/snapdragon-drug-chemistry-0611"/>
+        <updated>2021-06-11T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Professor Tim Jamison’s company Snapdragon Chemistry helps turn the latest innovations in chemistry into impactful drugs.]]></summary>
+        <author>
+            <name>Zach Winn | MIT News Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speeding up clinical trials by making drug production local]]></title>
+        <id>https://news.mit.edu/2021/snapdragon-drug-chemistry-0611</id>
+        <link href="https://news.mit.edu/2021/snapdragon-drug-chemistry-0611"/>
+        <updated>2021-06-11T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Professor Tim Jamison’s company Snapdragon Chemistry helps turn the latest innovations in chemistry into impactful drugs.]]></summary>
+        <author>
+            <name>Zach Winn | MIT News Office</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Training robots to manipulate soft and deformable objects]]></title>
         <id>https://news.mit.edu/2021/training-robots-manipulate-soft-deformable-objects-0609</id>
@@ -355,16 +375,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <summary type="html"><![CDATA[Algorithm enables robot teams to complete missions, such as mapping or search-and-rescue, with minimal wasted effort.]]></summary>
         <author>
             <name>Daniel Ackerman | MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building robots to expand access to cell therapies]]></title>
-        <id>https://news.mit.edu/2021/multiply-labs-cell-therapy-0512</id>
-        <link href="https://news.mit.edu/2021/multiply-labs-cell-therapy-0512"/>
-        <updated>2021-05-12T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alumni-founded Multiply Labs uses an automated manufacturing platform to produce advanced treatments at scale.]]></summary>
-        <author>
-            <name>Zach Winn | MIT News Office</name>
         </author>
     </entry>
 </feed>

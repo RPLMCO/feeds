@@ -49,24 +49,6 @@
           "publishedOn": "2021-05-17T05:32:19.000Z",
           "wordCount": 336,
           "title": "v1.7.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "author": null,
-          "description": "Fixed: static files were unnecessarily copied for custom templates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "publishedOn": "2021-05-16T02:33:58.000Z",
-          "wordCount": 276,
-          "title": "v1.7.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "author": null,
-          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.\nThank you @tianheg, @onnyyonn",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "publishedOn": "2021-05-16T01:42:24.000Z",
-          "wordCount": 286,
-          "title": "v1.7.0"
         }
       ]
     },
@@ -76,12 +58,21 @@
       "siteUrl": "https://news.mit.edu/rss/topic/robotics",
       "articles": [
         {
+          "id": "https://news.mit.edu/2021/creating-digital-twins-scale-0614",
+          "author": "Becky Ham | Department of Aeronautics and Astronautics",
+          "description": "Model could help predictive virtual models become standard practice in engineering.",
+          "link": "https://news.mit.edu/2021/creating-digital-twins-scale-0614",
+          "publishedOn": "2021-06-14T17:00:00.000Z",
+          "wordCount": 1836,
+          "title": "Creating “digital twins” at scale"
+        },
+        {
           "id": "https://news.mit.edu/2021/snapdragon-drug-chemistry-0611",
           "author": "Zach Winn | MIT News Office",
           "description": "Professor Tim Jamison’s company Snapdragon Chemistry helps turn the latest innovations in chemistry into impactful drugs.",
           "link": "https://news.mit.edu/2021/snapdragon-drug-chemistry-0611",
           "publishedOn": "2021-06-11T04:00:00.000Z",
-          "wordCount": 1871,
+          "wordCount": 1865,
           "title": "Speeding up clinical trials by making drug production local"
         },
         {
@@ -90,7 +81,7 @@
           "description": "Professor Tim Jamison’s company Snapdragon Chemistry helps turn the latest innovations in chemistry into impactful drugs.",
           "link": "https://news.mit.edu/2021/snapdragon-drug-chemistry-0611",
           "publishedOn": "2021-06-11T04:00:00.000Z",
-          "wordCount": 1871,
+          "wordCount": 1865,
           "title": "Speeding up clinical trials by making drug production local"
         },
         {
@@ -99,7 +90,7 @@
           "description": "A virtual environment embedded with knowledge of the physical world speeds up problem-solving.",
           "link": "https://news.mit.edu/2021/training-robots-manipulate-soft-deformable-objects-0609",
           "publishedOn": "2021-06-09T19:20:00.000Z",
-          "wordCount": 1335,
+          "wordCount": 1326,
           "title": "Training robots to manipulate soft and deformable objects"
         },
         {
@@ -108,7 +99,7 @@
           "description": "A virtual environment embedded with knowledge of the physical world speeds up problem-solving.",
           "link": "https://news.mit.edu/2021/training-robots-manipulate-soft-deformable-objects-0609",
           "publishedOn": "2021-06-09T19:20:00.000Z",
-          "wordCount": 1335,
+          "wordCount": 1326,
           "title": "Training robots to manipulate soft and deformable objects"
         },
         {
@@ -117,7 +108,7 @@
           "description": "Assistant professor Connor Coley is developing tools that would be able to predict molecular behavior and learn from both successes and mistakes.",
           "link": "https://news.mit.edu/2021/using-computational-tools-molecule-discovery-connor-coley-0608",
           "publishedOn": "2021-06-08T19:00:00.000Z",
-          "wordCount": 1722,
+          "wordCount": 1713,
           "title": "Using computational tools for molecule discovery"
         },
         {
@@ -126,7 +117,7 @@
           "description": "How a pair of MIT Sloan Executive Education alumni translated teachings from an MIT course to operations improvements at Mexico’s largest brewery.",
           "link": "https://news.mit.edu/2021/unleashing-capacity-heineken-mexico-with-systems-thinking-from-mit-0607",
           "publishedOn": "2021-06-07T18:35:00.000Z",
-          "wordCount": 1767,
+          "wordCount": 1758,
           "title": "Unleashing capacity at Heineken México with systems thinking from MIT"
         },
         {
@@ -135,7 +126,7 @@
           "description": "A new material made from carbon nanotubes can generate electricity by scavenging energy from its environment.",
           "link": "https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607",
           "publishedOn": "2021-06-07T09:00:00.000Z",
-          "wordCount": 1738,
+          "wordCount": 1729,
           "title": "Tiny particles power chemical reactions"
         },
         {
@@ -144,7 +135,7 @@
           "description": "Math professor Ankur Moitra seeks algorithms with provable guarantees, to pin down the mechanisms of machine learning.",
           "link": "https://news.mit.edu/2021/ankur-moitra-0606",
           "publishedOn": "2021-06-06T04:00:00.000Z",
-          "wordCount": 1642,
+          "wordCount": 1633,
           "title": "On a quest through uncharted territory"
         },
         {
@@ -153,7 +144,7 @@
           "description": "Math professor Ankur Moitra seeks algorithms with provable guarantees, to pin down the mechanisms of machine learning.",
           "link": "https://news.mit.edu/2021/ankur-moitra-0606",
           "publishedOn": "2021-06-06T04:00:00.000Z",
-          "wordCount": 1642,
+          "wordCount": 1633,
           "title": "On a quest through uncharted territory"
         },
         {
@@ -162,7 +153,7 @@
           "description": "Technology solutions to climate change, disaster response, and global health challenges are up for discussion in a new Lincoln Laboratory lecture series.",
           "link": "https://news.mit.edu/2021/exploring-future-humanitarian-technology-0603",
           "publishedOn": "2021-06-03T19:20:00.000Z",
-          "wordCount": 1997,
+          "wordCount": 1988,
           "title": "Exploring the future of humanitarian technology"
         },
         {
@@ -171,7 +162,7 @@
           "description": "In a first, the digital fiber contains memory, temperature sensors, and a trained neural network program for inferring physical activity.",
           "link": "https://news.mit.edu/2021/programmable-fiber-0603",
           "publishedOn": "2021-06-03T09:00:00.000Z",
-          "wordCount": 1999,
+          "wordCount": 1990,
           "title": "Engineers create a programmable fiber"
         },
         {
@@ -180,7 +171,7 @@
           "description": "Yichen Shen PhD '16 is CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence.",
           "link": "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602",
           "publishedOn": "2021-06-02T19:25:00.000Z",
-          "wordCount": 1777,
+          "wordCount": 1768,
           "title": "Accelerating AI at the speed of light"
         },
         {
@@ -189,7 +180,7 @@
           "description": "Nearly 1,400 joined the AI for Health Care Equity Conference that explored new AI technologies as a platform for change.",
           "link": "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601",
           "publishedOn": "2021-06-01T17:50:00.000Z",
-          "wordCount": 2250,
+          "wordCount": 2241,
           "title": "The potential of artificial intelligence to bring equity in health care"
         },
         {
@@ -198,7 +189,7 @@
           "description": "Built at MIT Lincoln Laboratory, the RIO program automatically detects and analyzes social media accounts that spread disinformation across a network.",
           "link": "https://news.mit.edu/2021/artificial-intelligence-system-could-help-counter-spread-disinformation-0527",
           "publishedOn": "2021-05-27T19:45:00.000Z",
-          "wordCount": 1421,
+          "wordCount": 1412,
           "title": "Artificial intelligence system could help counter the spread of disinformation"
         },
         {
@@ -207,7 +198,7 @@
           "description": "Machine learning software advances could help anesthesiologists optimize drug dose.",
           "link": "https://news.mit.edu/2021/new-algorithms-show-accuracy-reliability-gauging-unconsciousness-under-general-anesthesia-0526",
           "publishedOn": "2021-05-26T19:30:00.000Z",
-          "wordCount": 1906,
+          "wordCount": 1897,
           "title": "New algorithms show accuracy, reliability in gauging unconsciousness under general anesthesia"
         },
         {
@@ -216,7 +207,7 @@
           "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
           "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
           "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 2025,
+          "wordCount": 2016,
           "title": "Slender robotic finger senses buried items"
         },
         {
@@ -225,7 +216,7 @@
           "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
           "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
           "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 2025,
+          "wordCount": 2016,
           "title": "Slender robotic finger senses buried items"
         },
         {
@@ -234,7 +225,7 @@
           "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
           "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
           "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 2025,
+          "wordCount": 2016,
           "title": "Slender robotic finger senses buried items"
         },
         {
@@ -243,7 +234,7 @@
           "description": "Grants will support their research, graduate study, and teaching abroad in 2021-22.",
           "link": "https://news.mit.edu/2021/twelve-mit-awarded-fulbright-fellowships-0524",
           "publishedOn": "2021-05-24T16:25:00.000Z",
-          "wordCount": 2064,
+          "wordCount": 2055,
           "title": "Twelve from MIT awarded 2021 Fulbright Fellowships"
         },
         {
@@ -252,7 +243,7 @@
           "description": "Professor Markus Buehler composed it, and a South Korean orchestra performed it; it’s the latest in a series of artistic collaborations sparked by Buehler’s exploration of the structure of SARS-CoV-2.",
           "link": "https://news.mit.edu/2021/symphony-antibody-protein-body-makes-neutralize-coronavirus-0521",
           "publishedOn": "2021-05-21T20:00:00.000Z",
-          "wordCount": 2288,
+          "wordCount": 2279,
           "title": "There’s a symphony in the antibody protein the body makes to neutralize the coronavirus"
         },
         {
@@ -261,7 +252,7 @@
           "description": "Society for Industrial and Applied Mathematics recognizes Kepner, a pivotal member of the team that established Lincoln Laboratory's Supercomputing Center, for his innovative work in computing.",
           "link": "https://news.mit.edu/2021/jeremy-kepner-named-siam-fellow-0521",
           "publishedOn": "2021-05-21T19:15:00.000Z",
-          "wordCount": 1406,
+          "wordCount": 1397,
           "title": "Jeremy Kepner named SIAM Fellow"
         },
         {
@@ -270,7 +261,7 @@
           "description": "Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content.",
           "link": "https://news.mit.edu/2021/netra-video-ai-0520",
           "publishedOn": "2021-05-20T04:00:00.000Z",
-          "wordCount": 1867,
+          "wordCount": 1858,
           "title": "Improving the way videos are organized"
         },
         {
@@ -279,7 +270,7 @@
           "description": "Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content.",
           "link": "https://news.mit.edu/2021/netra-video-ai-0520",
           "publishedOn": "2021-05-20T04:00:00.000Z",
-          "wordCount": 1867,
+          "wordCount": 1858,
           "title": "Improving the way videos are organized"
         },
         {
@@ -288,7 +279,7 @@
           "description": "A machine learning model developed jointly by Janssen and MIT data scientists played a key role in the clinical trial process for the Johnson & Johnson Covid-19 vaccine.",
           "link": "https://news.mit.edu/2021/behind-covid-19-vaccine-development-0518",
           "publishedOn": "2021-05-18T17:00:00.000Z",
-          "wordCount": 2305,
+          "wordCount": 2296,
           "title": "Behind Covid-19 vaccine development"
         },
         {
@@ -297,7 +288,7 @@
           "description": "Responsible AI for Social Empowerment and Education (RAISE) seeks to empower more people to participate in, and benefit from, AI.",
           "link": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
           "publishedOn": "2021-05-18T04:00:00.000Z",
-          "wordCount": 2010,
+          "wordCount": 2001,
           "title": "Helping students of all ages flourish in the era of artificial intelligence"
         },
         {
@@ -306,7 +297,7 @@
           "description": "Responsible AI for Social Empowerment and Education (RAISE) seeks to empower more people to participate in, and benefit from, AI.",
           "link": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
           "publishedOn": "2021-05-18T04:00:00.000Z",
-          "wordCount": 2010,
+          "wordCount": 2001,
           "title": "Helping students of all ages flourish in the era of artificial intelligence"
         }
       ]

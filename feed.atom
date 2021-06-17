@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T00:34:03.781Z</updated>
+    <updated>2021-06-17T00:32:12.056Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The new wave of robotic automation]]></title>
+        <id>https://news.mit.edu/2021/new-wave-robotic-automation-0616</id>
+        <link href="https://news.mit.edu/2021/new-wave-robotic-automation-0616"/>
+        <updated>2021-06-16T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
+        <author>
+            <name>Daniel de Wolff | MIT Startup Exchange</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new wave of robotic automation]]></title>
+        <id>https://news.mit.edu/2021/new-wave-robotic-automation-0616</id>
+        <link href="https://news.mit.edu/2021/new-wave-robotic-automation-0616"/>
+        <updated>2021-06-16T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
+        <author>
+            <name>Daniel de Wolff | MIT Startup Exchange</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new wave of robotic automation]]></title>
+        <id>https://news.mit.edu/2021/new-wave-robotic-automation-0616</id>
+        <link href="https://news.mit.edu/2021/new-wave-robotic-automation-0616"/>
+        <updated>2021-06-16T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
+        <author>
+            <name>Daniel de Wolff | MIT Startup Exchange</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new wave of robotic automation]]></title>
+        <id>https://news.mit.edu/2021/new-wave-robotic-automation-0616</id>
+        <link href="https://news.mit.edu/2021/new-wave-robotic-automation-0616"/>
+        <updated>2021-06-16T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
+        <author>
+            <name>Daniel de Wolff | MIT Startup Exchange</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating “digital twins” at scale]]></title>
         <id>https://news.mit.edu/2021/creating-digital-twins-scale-0614</id>
@@ -302,26 +342,6 @@ Thank you: @LooperXX.]]></summary>
         <summary type="html"><![CDATA[A machine learning model developed jointly by Janssen and MIT data scientists played a key role in the clinical trial process for the Johnson & Johnson Covid-19 vaccine.]]></summary>
         <author>
             <name>Terri Park | MIT Schwarzman College of Computing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helping students of all ages flourish in the era of artificial intelligence]]></title>
-        <id>https://news.mit.edu/2021/raise-artificial-intelligence-0518</id>
-        <link href="https://news.mit.edu/2021/raise-artificial-intelligence-0518"/>
-        <updated>2021-05-18T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Responsible AI for Social Empowerment and Education (RAISE) seeks to empower more people to participate in, and benefit from, AI.]]></summary>
-        <author>
-            <name>Daniel Ackerman | MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helping students of all ages flourish in the era of artificial intelligence]]></title>
-        <id>https://news.mit.edu/2021/raise-artificial-intelligence-0518</id>
-        <link href="https://news.mit.edu/2021/raise-artificial-intelligence-0518"/>
-        <updated>2021-05-18T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Responsible AI for Social Empowerment and Education (RAISE) seeks to empower more people to participate in, and benefit from, AI.]]></summary>
-        <author>
-            <name>Daniel Ackerman | MIT News Office</name>
         </author>
     </entry>
 </feed>

@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T00:32:12.056Z</updated>
+    <updated>2021-06-18T00:34:03.000Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[The new wave of robotic automation]]></title>
-        <id>https://news.mit.edu/2021/new-wave-robotic-automation-0616</id>
-        <link href="https://news.mit.edu/2021/new-wave-robotic-automation-0616"/>
-        <updated>2021-06-16T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
+        <title type="html"><![CDATA[Uncovering the mysteries of milk]]></title>
+        <id>https://news.mit.edu/2021/sarah-nyquist-reproductive-health-0617</id>
+        <link href="https://news.mit.edu/2021/sarah-nyquist-reproductive-health-0617"/>
+        <updated>2021-06-17T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PhD student Sarah Nyquist applies computational methods to understudied areas of reproductive health, such as the cellular composition of breast milk.]]></summary>
         <author>
-            <name>Daniel de Wolff | MIT Startup Exchange</name>
+            <name>Hannah Meiseles | MIT News correspondent</name>
         </author>
     </entry>
     <entry>
@@ -44,6 +44,26 @@
         <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
         <author>
             <name>Daniel de Wolff | MIT Startup Exchange</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new wave of robotic automation]]></title>
+        <id>https://news.mit.edu/2021/new-wave-robotic-automation-0616</id>
+        <link href="https://news.mit.edu/2021/new-wave-robotic-automation-0616"/>
+        <updated>2021-06-16T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
+        <author>
+            <name>Daniel de Wolff | MIT Startup Exchange</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking the potential of blockchain technology]]></title>
+        <id>https://news.mit.edu/2021/unlocking-potential-blockchain-0616</id>
+        <link href="https://news.mit.edu/2021/unlocking-potential-blockchain-0616"/>
+        <updated>2021-06-16T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Algorand uses a unique architecture developed by MIT Professor Silvio Micali to offer a decentralized, secure, and scalable blockchain.]]></summary>
+        <author>
+            <name>Zach Winn | MIT News Office</name>
         </author>
     </entry>
     <entry>
@@ -332,16 +352,6 @@ Thank you: @LooperXX.]]></summary>
         <summary type="html"><![CDATA[Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content.]]></summary>
         <author>
             <name>Zach Winn | MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind Covid-19 vaccine development]]></title>
-        <id>https://news.mit.edu/2021/behind-covid-19-vaccine-development-0518</id>
-        <link href="https://news.mit.edu/2021/behind-covid-19-vaccine-development-0518"/>
-        <updated>2021-05-18T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A machine learning model developed jointly by Janssen and MIT data scientists played a key role in the clinical trial process for the Johnson & Johnson Covid-19 vaccine.]]></summary>
-        <author>
-            <name>Terri Park | MIT Schwarzman College of Computing</name>
         </author>
     </entry>
 </feed>

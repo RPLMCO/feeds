@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T00:34:03.000Z</updated>
+    <updated>2021-06-19T00:33:06.570Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
@@ -332,26 +332,6 @@ Thank you: @LooperXX.]]></summary>
         <summary type="html"><![CDATA[Society for Industrial and Applied Mathematics recognizes Kepner, a pivotal member of the team that established Lincoln Laboratory's Supercomputing Center, for his innovative work in computing.]]></summary>
         <author>
             <name>Dorothy Ryan | Lincoln Laboratory</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving the way videos are organized]]></title>
-        <id>https://news.mit.edu/2021/netra-video-ai-0520</id>
-        <link href="https://news.mit.edu/2021/netra-video-ai-0520"/>
-        <updated>2021-05-20T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content.]]></summary>
-        <author>
-            <name>Zach Winn | MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving the way videos are organized]]></title>
-        <id>https://news.mit.edu/2021/netra-video-ai-0520</id>
-        <link href="https://news.mit.edu/2021/netra-video-ai-0520"/>
-        <updated>2021-05-20T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Netra, co-founded by Shashi Kant SM ’06, uses artificial intelligence to help companies sort and manage video content.]]></summary>
-        <author>
-            <name>Zach Winn | MIT News Office</name>
         </author>
     </entry>
 </feed>

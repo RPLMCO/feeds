@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T00:32:10.248Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-24T00:26:27.103Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Four researchers earn interdisciplinary Schmidt Science Fellowships]]></title>
+        <id>https://news.mit.edu/2021/four-researchers-earn-schmidt-science-fellowships-0623</id>
+        <link href="https://news.mit.edu/2021/four-researchers-earn-schmidt-science-fellowships-0623"/>
+        <updated>2021-06-23T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Selective global honor supports early-career scientists and engineers in taking on new pursuits.]]></summary>
+        <author>
+            <name>David Orenstein | Picower Institute for Learning and Memory</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.11.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
+        <updated>2021-06-23T05:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
+
+Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
+Videos are embedded via iframe and loading accelerated by youtube-lite-embed
+Ads are reduced thanks to YouTube's policy for embedded videos 🙃
+Works on mobile devices with butter smooth horizontal scroll.
+Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
+Changed: Default HTML template meta tag adjusted to match convention
+Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
+Thank you @PiyushLosalka]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing drones to address pandemic-related challenges in Scandinavia]]></title>
+        <id>https://news.mit.edu/2021/developing-drones-address-pandemic-related-challenges-scandinavia-0623</id>
+        <link href="https://news.mit.edu/2021/developing-drones-address-pandemic-related-challenges-scandinavia-0623"/>
+        <updated>2021-06-23T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After meeting in an Advanced Study Program at MIT, three Norwegian students began working together to transport biological samples using autonomous vehicles.]]></summary>
+        <author>
+            <name>MIT Professional Education</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing drones to address pandemic-related challenges in Scandinavia]]></title>
+        <id>https://news.mit.edu/2021/developing-drones-address-pandemic-related-challenges-scandinavia-0623</id>
+        <link href="https://news.mit.edu/2021/developing-drones-address-pandemic-related-challenges-scandinavia-0623"/>
+        <updated>2021-06-23T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After meeting in an Advanced Study Program at MIT, three Norwegian students began working together to transport biological samples using autonomous vehicles.]]></summary>
+        <author>
+            <name>MIT Professional Education</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A unique collaboration with US Special Operations Command]]></title>
         <id>https://news.mit.edu/2021/unique-collaboration-us-special-operations-command-0622</id>
@@ -157,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unleashing capacity at Heineken México with systems thinking from MIT]]></title>
-        <id>https://news.mit.edu/2021/unleashing-capacity-heineken-mexico-with-systems-thinking-from-mit-0607</id>
-        <link href="https://news.mit.edu/2021/unleashing-capacity-heineken-mexico-with-systems-thinking-from-mit-0607"/>
-        <updated>2021-06-07T18:35:00.000Z</updated>
-        <summary type="html"><![CDATA[How a pair of MIT Sloan Executive Education alumni translated teachings from an MIT course to operations improvements at Mexico’s largest brewery.]]></summary>
-        <author>
-            <name>MIT Sloan Executive Education</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tiny particles power chemical reactions]]></title>
         <id>https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607</id>
         <link href="https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607"/>
@@ -311,16 +350,6 @@ Thank you @Zenigata]]></summary>
         <summary type="html"><![CDATA[The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.]]></summary>
         <author>
             <name>Daniel Ackerman | MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twelve from MIT awarded 2021 Fulbright Fellowships]]></title>
-        <id>https://news.mit.edu/2021/twelve-mit-awarded-fulbright-fellowships-0524</id>
-        <link href="https://news.mit.edu/2021/twelve-mit-awarded-fulbright-fellowships-0524"/>
-        <updated>2021-05-24T16:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Grants will support their research, graduate study, and teaching abroad in 2021-22.]]></summary>
-        <author>
-            <name>Julia Mongo | Office of Distinguished Fellowships</name>
         </author>
     </entry>
 </feed>

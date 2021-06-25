@@ -11,7 +11,7 @@
           "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
           "publishedOn": "2021-06-23T05:57:59.000Z",
-          "wordCount": 368,
+          "wordCount": 370,
           "title": "v1.11.0"
         },
         {
@@ -22,15 +22,6 @@
           "publishedOn": "2021-06-01T04:39:30.000Z",
           "wordCount": 263,
           "title": "v1.10.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
-          "author": null,
-          "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
-          "publishedOn": "2021-05-26T06:02:55.000Z",
-          "wordCount": 412,
-          "title": "v1.9.0"
         }
       ]
     },
@@ -39,6 +30,42 @@
       "feedUrl": "https://news.mit.edu/rss/topic/robotics",
       "siteUrl": "https://news.mit.edu/rss/topic/robotics",
       "articles": [
+        {
+          "id": "https://news.mit.edu/2021/intelligent-carpet-gives-insight-human-poses-0624",
+          "author": "Rachel Gordon | MIT CSAIL",
+          "description": "Tactical sensing carpet estimates 3D human poses without the use of cameras, and could improve health monitoring and smart homes.",
+          "link": "https://news.mit.edu/2021/intelligent-carpet-gives-insight-human-poses-0624",
+          "publishedOn": "2021-06-24T19:10:00.000Z",
+          "wordCount": 1332,
+          "title": "Intelligent carpet gives insight into human poses"
+        },
+        {
+          "id": "https://news.mit.edu/2021/four-mit-faculty-members-receive-us-department-energy-early-career-awards-0624",
+          "author": "Alison Gold | School of Engineering | School of Science",
+          "description": "Faculty from the departments of Physics and of Nuclear Science and Engineering faculty were selected for the Early Career Research Program.",
+          "link": "https://news.mit.edu/2021/four-mit-faculty-members-receive-us-department-energy-early-career-awards-0624",
+          "publishedOn": "2021-06-24T18:50:00.000Z",
+          "wordCount": 1921,
+          "title": "Four MIT faculty members receive 2021 US Department of Energy early career awards"
+        },
+        {
+          "id": "https://news.mit.edu/2021/tackling-air-pollution-with-autonomous-drones-0624",
+          "author": "Kate Petersen | School of Engineering",
+          "description": "Alumni of the MIT New Engineering Education Transformation Program (NEET) worked together remotely from across the globe to design thinking machines.",
+          "link": "https://news.mit.edu/2021/tackling-air-pollution-with-autonomous-drones-0624",
+          "publishedOn": "2021-06-24T17:00:00.000Z",
+          "wordCount": 2059,
+          "title": "Tackling air pollution with autonomous drones"
+        },
+        {
+          "id": "https://news.mit.edu/2021/tackling-air-pollution-with-autonomous-drones-0624",
+          "author": "Kate Petersen | School of Engineering",
+          "description": "Alumni of the MIT New Engineering Education Transformation Program (NEET) worked together remotely from across the globe to design thinking machines.",
+          "link": "https://news.mit.edu/2021/tackling-air-pollution-with-autonomous-drones-0624",
+          "publishedOn": "2021-06-24T17:00:00.000Z",
+          "wordCount": 2059,
+          "title": "Tackling air pollution with autonomous drones"
+        },
         {
           "id": "https://news.mit.edu/2021/four-researchers-earn-schmidt-science-fellowships-0623",
           "author": "David Orenstein | Picower Institute for Learning and Memory",
@@ -54,7 +81,7 @@
           "description": "After meeting in an Advanced Study Program at MIT, three Norwegian students began working together to transport biological samples using autonomous vehicles.",
           "link": "https://news.mit.edu/2021/developing-drones-address-pandemic-related-challenges-scandinavia-0623",
           "publishedOn": "2021-06-23T04:00:00.000Z",
-          "wordCount": 1820,
+          "wordCount": 1830,
           "title": "Developing drones to address pandemic-related challenges in Scandinavia"
         },
         {
@@ -63,7 +90,7 @@
           "description": "After meeting in an Advanced Study Program at MIT, three Norwegian students began working together to transport biological samples using autonomous vehicles.",
           "link": "https://news.mit.edu/2021/developing-drones-address-pandemic-related-challenges-scandinavia-0623",
           "publishedOn": "2021-06-23T04:00:00.000Z",
-          "wordCount": 1820,
+          "wordCount": 1830,
           "title": "Developing drones to address pandemic-related challenges in Scandinavia"
         },
         {
@@ -72,7 +99,7 @@
           "description": "Nearly 300 government and military members participated in a new course designed to explore the next generation of artificial intelligence and related technologies.",
           "link": "https://news.mit.edu/2021/unique-collaboration-us-special-operations-command-0622",
           "publishedOn": "2021-06-22T20:15:00.000Z",
-          "wordCount": 2517,
+          "wordCount": 2528,
           "title": "A unique collaboration with US Special Operations Command"
         },
         {
@@ -81,7 +108,7 @@
           "description": "Nearly 300 government and military members participated in a new course designed to explore the next generation of artificial intelligence and related technologies.",
           "link": "https://news.mit.edu/2021/unique-collaboration-us-special-operations-command-0622",
           "publishedOn": "2021-06-22T20:15:00.000Z",
-          "wordCount": 2517,
+          "wordCount": 2528,
           "title": "A unique collaboration with US Special Operations Command"
         },
         {
@@ -90,7 +117,7 @@
           "description": "Nearly 300 government and military members participated in a new course designed to explore the next generation of artificial intelligence and related technologies.",
           "link": "https://news.mit.edu/2021/unique-collaboration-us-special-operations-command-0622",
           "publishedOn": "2021-06-22T20:15:00.000Z",
-          "wordCount": 2517,
+          "wordCount": 2528,
           "title": "A unique collaboration with US Special Operations Command"
         },
         {
@@ -99,7 +126,7 @@
           "description": "PhD student Sarah Nyquist applies computational methods to understudied areas of reproductive health, such as the cellular composition of breast milk.",
           "link": "https://news.mit.edu/2021/sarah-nyquist-reproductive-health-0617",
           "publishedOn": "2021-06-17T04:00:00.000Z",
-          "wordCount": 1886,
+          "wordCount": 1897,
           "title": "Uncovering the mysteries of milk"
         },
         {
@@ -108,7 +135,7 @@
           "description": "Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.",
           "link": "https://news.mit.edu/2021/new-wave-robotic-automation-0616",
           "publishedOn": "2021-06-16T16:40:00.000Z",
-          "wordCount": 1844,
+          "wordCount": 1855,
           "title": "The new wave of robotic automation"
         },
         {
@@ -117,7 +144,7 @@
           "description": "Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.",
           "link": "https://news.mit.edu/2021/new-wave-robotic-automation-0616",
           "publishedOn": "2021-06-16T16:40:00.000Z",
-          "wordCount": 1844,
+          "wordCount": 1855,
           "title": "The new wave of robotic automation"
         },
         {
@@ -126,7 +153,7 @@
           "description": "Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.",
           "link": "https://news.mit.edu/2021/new-wave-robotic-automation-0616",
           "publishedOn": "2021-06-16T16:40:00.000Z",
-          "wordCount": 1844,
+          "wordCount": 1855,
           "title": "The new wave of robotic automation"
         },
         {
@@ -135,7 +162,7 @@
           "description": "Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.",
           "link": "https://news.mit.edu/2021/new-wave-robotic-automation-0616",
           "publishedOn": "2021-06-16T16:40:00.000Z",
-          "wordCount": 1844,
+          "wordCount": 1855,
           "title": "The new wave of robotic automation"
         },
         {
@@ -144,7 +171,7 @@
           "description": "Algorand uses a unique architecture developed by MIT Professor Silvio Micali to offer a decentralized, secure, and scalable blockchain.",
           "link": "https://news.mit.edu/2021/unlocking-potential-blockchain-0616",
           "publishedOn": "2021-06-16T04:00:00.000Z",
-          "wordCount": 2162,
+          "wordCount": 2173,
           "title": "Unlocking the potential of blockchain technology"
         },
         {
@@ -153,7 +180,7 @@
           "description": "Model could help predictive virtual models become standard practice in engineering.",
           "link": "https://news.mit.edu/2021/creating-digital-twins-scale-0614",
           "publishedOn": "2021-06-14T17:00:00.000Z",
-          "wordCount": 1820,
+          "wordCount": 1831,
           "title": "Creating “digital twins” at scale"
         },
         {
@@ -162,7 +189,7 @@
           "description": "Professor Tim Jamison’s company Snapdragon Chemistry helps turn the latest innovations in chemistry into impactful drugs.",
           "link": "https://news.mit.edu/2021/snapdragon-drug-chemistry-0611",
           "publishedOn": "2021-06-11T04:00:00.000Z",
-          "wordCount": 1868,
+          "wordCount": 1879,
           "title": "Speeding up clinical trials by making drug production local"
         },
         {
@@ -171,7 +198,7 @@
           "description": "Professor Tim Jamison’s company Snapdragon Chemistry helps turn the latest innovations in chemistry into impactful drugs.",
           "link": "https://news.mit.edu/2021/snapdragon-drug-chemistry-0611",
           "publishedOn": "2021-06-11T04:00:00.000Z",
-          "wordCount": 1868,
+          "wordCount": 1879,
           "title": "Speeding up clinical trials by making drug production local"
         },
         {
@@ -180,7 +207,7 @@
           "description": "A virtual environment embedded with knowledge of the physical world speeds up problem-solving.",
           "link": "https://news.mit.edu/2021/training-robots-manipulate-soft-deformable-objects-0609",
           "publishedOn": "2021-06-09T19:20:00.000Z",
-          "wordCount": 1329,
+          "wordCount": 1340,
           "title": "Training robots to manipulate soft and deformable objects"
         },
         {
@@ -189,7 +216,7 @@
           "description": "A virtual environment embedded with knowledge of the physical world speeds up problem-solving.",
           "link": "https://news.mit.edu/2021/training-robots-manipulate-soft-deformable-objects-0609",
           "publishedOn": "2021-06-09T19:20:00.000Z",
-          "wordCount": 1329,
+          "wordCount": 1340,
           "title": "Training robots to manipulate soft and deformable objects"
         },
         {
@@ -198,7 +225,7 @@
           "description": "Assistant professor Connor Coley is developing tools that would be able to predict molecular behavior and learn from both successes and mistakes.",
           "link": "https://news.mit.edu/2021/using-computational-tools-molecule-discovery-connor-coley-0608",
           "publishedOn": "2021-06-08T19:00:00.000Z",
-          "wordCount": 1716,
+          "wordCount": 1727,
           "title": "Using computational tools for molecule discovery"
         },
         {
@@ -207,7 +234,7 @@
           "description": "A new material made from carbon nanotubes can generate electricity by scavenging energy from its environment.",
           "link": "https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607",
           "publishedOn": "2021-06-07T09:00:00.000Z",
-          "wordCount": 1732,
+          "wordCount": 1743,
           "title": "Tiny particles power chemical reactions"
         },
         {
@@ -216,7 +243,7 @@
           "description": "Math professor Ankur Moitra seeks algorithms with provable guarantees, to pin down the mechanisms of machine learning.",
           "link": "https://news.mit.edu/2021/ankur-moitra-0606",
           "publishedOn": "2021-06-06T04:00:00.000Z",
-          "wordCount": 1636,
+          "wordCount": 1647,
           "title": "On a quest through uncharted territory"
         },
         {
@@ -225,7 +252,7 @@
           "description": "Math professor Ankur Moitra seeks algorithms with provable guarantees, to pin down the mechanisms of machine learning.",
           "link": "https://news.mit.edu/2021/ankur-moitra-0606",
           "publishedOn": "2021-06-06T04:00:00.000Z",
-          "wordCount": 1636,
+          "wordCount": 1647,
           "title": "On a quest through uncharted territory"
         },
         {
@@ -234,7 +261,7 @@
           "description": "Technology solutions to climate change, disaster response, and global health challenges are up for discussion in a new Lincoln Laboratory lecture series.",
           "link": "https://news.mit.edu/2021/exploring-future-humanitarian-technology-0603",
           "publishedOn": "2021-06-03T19:20:00.000Z",
-          "wordCount": 1991,
+          "wordCount": 2002,
           "title": "Exploring the future of humanitarian technology"
         },
         {
@@ -243,7 +270,7 @@
           "description": "In a first, the digital fiber contains memory, temperature sensors, and a trained neural network program for inferring physical activity.",
           "link": "https://news.mit.edu/2021/programmable-fiber-0603",
           "publishedOn": "2021-06-03T09:00:00.000Z",
-          "wordCount": 2093,
+          "wordCount": 2104,
           "title": "Engineers create a programmable fiber"
         },
         {
@@ -252,7 +279,7 @@
           "description": "Yichen Shen PhD '16 is CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence.",
           "link": "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602",
           "publishedOn": "2021-06-02T19:25:00.000Z",
-          "wordCount": 1771,
+          "wordCount": 1782,
           "title": "Accelerating AI at the speed of light"
         },
         {
@@ -261,7 +288,7 @@
           "description": "Nearly 1,400 joined the AI for Health Care Equity Conference that explored new AI technologies as a platform for change.",
           "link": "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601",
           "publishedOn": "2021-06-01T17:50:00.000Z",
-          "wordCount": 2244,
+          "wordCount": 2255,
           "title": "The potential of artificial intelligence to bring equity in health care"
         },
         {
@@ -270,7 +297,7 @@
           "description": "Built at MIT Lincoln Laboratory, the RIO program automatically detects and analyzes social media accounts that spread disinformation across a network.",
           "link": "https://news.mit.edu/2021/artificial-intelligence-system-could-help-counter-spread-disinformation-0527",
           "publishedOn": "2021-05-27T19:45:00.000Z",
-          "wordCount": 1415,
+          "wordCount": 1426,
           "title": "Artificial intelligence system could help counter the spread of disinformation"
         },
         {
@@ -279,35 +306,8 @@
           "description": "Machine learning software advances could help anesthesiologists optimize drug dose.",
           "link": "https://news.mit.edu/2021/new-algorithms-show-accuracy-reliability-gauging-unconsciousness-under-general-anesthesia-0526",
           "publishedOn": "2021-05-26T19:30:00.000Z",
-          "wordCount": 1900,
+          "wordCount": 1911,
           "title": "New algorithms show accuracy, reliability in gauging unconsciousness under general anesthesia"
-        },
-        {
-          "id": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
-          "author": "Daniel Ackerman | MIT News Office",
-          "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
-          "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
-          "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 2019,
-          "title": "Slender robotic finger senses buried items"
-        },
-        {
-          "id": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
-          "author": "Daniel Ackerman | MIT News Office",
-          "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
-          "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
-          "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 2019,
-          "title": "Slender robotic finger senses buried items"
-        },
-        {
-          "id": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
-          "author": "Daniel Ackerman | MIT News Office",
-          "description": "The technology uses tactile sensing to identify objects underground, and might one day help disarm land mines or inspect cables.",
-          "link": "https://news.mit.edu/2021/robotic-finger-buried-underground-0526",
-          "publishedOn": "2021-05-26T04:00:00.000Z",
-          "wordCount": 2019,
-          "title": "Slender robotic finger senses buried items"
         }
       ]
     }

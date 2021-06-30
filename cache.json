@@ -31,6 +31,15 @@
       "siteUrl": "https://news.mit.edu/rss/topic/robotics",
       "articles": [
         {
+          "id": "https://news.mit.edu/2021/mit-dod-launch-new-edx-learning-platform-manufacturing-education-0629",
+          "author": "Julie Diop | Department of Materials Science and Engineering",
+          "description": "MIT offers first courses on the platform, which aims to serve cutting-edge manufacturing education to more Americans.",
+          "link": "https://news.mit.edu/2021/mit-dod-launch-new-edx-learning-platform-manufacturing-education-0629",
+          "publishedOn": "2021-06-29T18:30:00.000Z",
+          "wordCount": 1331,
+          "title": "MIT and U.S. Department of Defense team up to launch a new edX learning platform"
+        },
+        {
           "id": "https://news.mit.edu/2021/intelligent-carpet-gives-insight-human-poses-0624",
           "author": "Rachel Gordon | MIT CSAIL",
           "description": "Tactical sensing carpet estimates 3D human poses without the use of cameras, and could improve health monitoring and smart homes.",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T00:35:42.645Z</updated>
+    <updated>2021-06-30T00:37:17.684Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIT and U.S. Department of Defense team up to launch a new edX learning platform]]></title>
+        <id>https://news.mit.edu/2021/mit-dod-launch-new-edx-learning-platform-manufacturing-education-0629</id>
+        <link href="https://news.mit.edu/2021/mit-dod-launch-new-edx-learning-platform-manufacturing-education-0629"/>
+        <updated>2021-06-29T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[MIT offers first courses on the platform, which aims to serve cutting-edge manufacturing education to more Americans.]]></summary>
+        <author>
+            <name>Julie Diop | Department of Materials Science and Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intelligent carpet gives insight into human poses]]></title>
         <id>https://news.mit.edu/2021/intelligent-carpet-gives-insight-human-poses-0624</id>

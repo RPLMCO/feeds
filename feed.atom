@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T00:37:17.684Z</updated>
+    <updated>2021-07-01T00:35:31.597Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The power of two]]></title>
+        <id>https://news.mit.edu/2021/power-of-two-ellen-zhong-0630</id>
+        <link href="https://news.mit.edu/2021/power-of-two-ellen-zhong-0630"/>
+        <updated>2021-06-30T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Graduate student Ellen Zhong helped biologists and mathematicians reach across departmental lines to address a longstanding problem in electron microscopy.]]></summary>
+        <author>
+            <name>Saima Sidik | Department of Biology</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MIT and U.S. Department of Defense team up to launch a new edX learning platform]]></title>
         <id>https://news.mit.edu/2021/mit-dod-launch-new-edx-learning-platform-manufacturing-education-0629</id>
@@ -323,16 +333,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Nearly 1,400 joined the AI for Health Care Equity Conference that explored new AI technologies as a platform for change.]]></summary>
         <author>
             <name>MIT Schwarzman College of Computing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.10.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2"/>
-        <updated>2021-06-01T04:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>

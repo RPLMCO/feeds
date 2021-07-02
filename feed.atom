@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T00:35:31.597Z</updated>
+    <updated>2021-07-02T00:32:53.631Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Giving robots better moves]]></title>
+        <id>https://news.mit.edu/2021/righthand-robotics-0701</id>
+        <link href="https://news.mit.edu/2021/righthand-robotics-0701"/>
+        <updated>2021-07-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MIT alumnus-founded RightHand Robotics has developed picking robots that are more reliable and adaptable in warehouse environments.]]></summary>
+        <author>
+            <name>Zach Winn | MIT News Office</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The power of two]]></title>
         <id>https://news.mit.edu/2021/power-of-two-ellen-zhong-0630</id>
@@ -323,16 +333,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Yichen Shen PhD '16 is CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence.]]></summary>
         <author>
             <name>Daniel de Wolff | MIT Startup Exchange</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The potential of artificial intelligence to bring equity in health care]]></title>
-        <id>https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601</id>
-        <link href="https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601"/>
-        <updated>2021-06-01T17:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Nearly 1,400 joined the AI for Health Care Equity Conference that explored new AI technologies as a platform for change.]]></summary>
-        <author>
-            <name>MIT Schwarzman College of Computing</name>
         </author>
     </entry>
 </feed>

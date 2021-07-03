@@ -281,24 +281,6 @@
           "publishedOn": "2021-06-03T19:20:00.000Z",
           "wordCount": 1985,
           "title": "Exploring the future of humanitarian technology"
-        },
-        {
-          "id": "https://news.mit.edu/2021/programmable-fiber-0603",
-          "author": "Becky Ham | MIT News correspondent",
-          "description": "In a first, the digital fiber contains memory, temperature sensors, and a trained neural network program for inferring physical activity.",
-          "link": "https://news.mit.edu/2021/programmable-fiber-0603",
-          "publishedOn": "2021-06-03T09:00:00.000Z",
-          "wordCount": 2087,
-          "title": "Engineers create a programmable fiber"
-        },
-        {
-          "id": "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602",
-          "author": "Daniel de Wolff | MIT Startup Exchange",
-          "description": "Yichen Shen PhD '16 is CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence.",
-          "link": "https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602",
-          "publishedOn": "2021-06-02T19:25:00.000Z",
-          "wordCount": 1765,
-          "title": "Accelerating AI at the speed of light"
         }
       ]
     }

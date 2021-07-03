@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T00:32:53.631Z</updated>
+    <updated>2021-07-03T00:33:42.371Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
@@ -313,26 +313,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Technology solutions to climate change, disaster response, and global health challenges are up for discussion in a new Lincoln Laboratory lecture series.]]></summary>
         <author>
             <name>Kylie Foy | Lincoln Laboratory</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineers create a programmable fiber]]></title>
-        <id>https://news.mit.edu/2021/programmable-fiber-0603</id>
-        <link href="https://news.mit.edu/2021/programmable-fiber-0603"/>
-        <updated>2021-06-03T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a first, the digital fiber contains memory, temperature sensors, and a trained neural network program for inferring physical activity.]]></summary>
-        <author>
-            <name>Becky Ham | MIT News correspondent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating AI at the speed of light]]></title>
-        <id>https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602</id>
-        <link href="https://news.mit.edu/2021/lightelligence-accelerating-ai-speed-light-0602"/>
-        <updated>2021-06-02T19:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Yichen Shen PhD '16 is CEO of Lightelligence, an MIT spinout using photonics to reinvent computing for artificial intelligence.]]></summary>
-        <author>
-            <name>Daniel de Wolff | MIT Startup Exchange</name>
         </author>
     </entry>
 </feed>

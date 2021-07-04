@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T00:33:42.371Z</updated>
+    <updated>2021-07-04T00:34:21.055Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
@@ -303,16 +303,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Math professor Ankur Moitra seeks algorithms with provable guarantees, to pin down the mechanisms of machine learning.]]></summary>
         <author>
             <name>Michaela Jarvis | MIT News correspondent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the future of humanitarian technology]]></title>
-        <id>https://news.mit.edu/2021/exploring-future-humanitarian-technology-0603</id>
-        <link href="https://news.mit.edu/2021/exploring-future-humanitarian-technology-0603"/>
-        <updated>2021-06-03T19:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Technology solutions to climate change, disaster response, and global health challenges are up for discussion in a new Lincoln Laboratory lecture series.]]></summary>
-        <author>
-            <name>Kylie Foy | Lincoln Laboratory</name>
         </author>
     </entry>
 </feed>

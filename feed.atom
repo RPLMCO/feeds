@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T00:31:38.746Z</updated>
+    <updated>2021-07-06T00:35:17.540Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
@@ -283,26 +283,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[A new material made from carbon nanotubes can generate electricity by scavenging energy from its environment.]]></summary>
         <author>
             <name>Anne Trafton | MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On a quest through uncharted territory]]></title>
-        <id>https://news.mit.edu/2021/ankur-moitra-0606</id>
-        <link href="https://news.mit.edu/2021/ankur-moitra-0606"/>
-        <updated>2021-06-06T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Math professor Ankur Moitra seeks algorithms with provable guarantees, to pin down the mechanisms of machine learning.]]></summary>
-        <author>
-            <name>Michaela Jarvis | MIT News correspondent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On a quest through uncharted territory]]></title>
-        <id>https://news.mit.edu/2021/ankur-moitra-0606</id>
-        <link href="https://news.mit.edu/2021/ankur-moitra-0606"/>
-        <updated>2021-06-06T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Math professor Ankur Moitra seeks algorithms with provable guarantees, to pin down the mechanisms of machine learning.]]></summary>
-        <author>
-            <name>Michaela Jarvis | MIT News correspondent</name>
         </author>
     </entry>
 </feed>

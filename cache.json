@@ -27,7 +27,7 @@
           "description": "MIT alumnus-founded RightHand Robotics has developed picking robots that are more reliable and adaptable in warehouse environments.",
           "link": "https://news.mit.edu/2021/righthand-robotics-0701",
           "publishedOn": "2021-07-01T04:00:00.000Z",
-          "wordCount": 1965,
+          "wordCount": 1968,
           "title": "Giving robots better moves"
         },
         {
@@ -245,15 +245,6 @@
           "publishedOn": "2021-06-08T19:00:00.000Z",
           "wordCount": 1710,
           "title": "Using computational tools for molecule discovery"
-        },
-        {
-          "id": "https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607",
-          "author": "Anne Trafton | MIT News Office",
-          "description": "A new material made from carbon nanotubes can generate electricity by scavenging energy from its environment.",
-          "link": "https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607",
-          "publishedOn": "2021-06-07T09:00:00.000Z",
-          "wordCount": 1737,
-          "title": "Tiny particles power chemical reactions"
         }
       ]
     }

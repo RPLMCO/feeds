@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T00:34:14.368Z</updated>
+    <updated>2021-07-08T00:32:19.015Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Infrared cameras and artificial intelligence provide insight into boiling]]></title>
+        <id>https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707</id>
+        <link href="https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707"/>
+        <updated>2021-07-07T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[MIT researchers train a neural network to predict a “boiling crisis,” with potential applications for cooling computer chips and nuclear reactors.]]></summary>
+        <author>
+            <name>Matthew Hutson | Department of Nuclear Science and Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing exploratory robots that collect data for marine scientists]]></title>
+        <id>https://news.mit.edu/2021/victoria-preston-exploratory-robots-0707</id>
+        <link href="https://news.mit.edu/2021/victoria-preston-exploratory-robots-0707"/>
+        <updated>2021-07-07T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“This is a really exciting time to be a roboticist who also cares about the environment,” says PhD student Victoria Preston.]]></summary>
+        <author>
+            <name>Hannah Meiseles | MIT News correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing exploratory robots that collect data for marine scientists]]></title>
+        <id>https://news.mit.edu/2021/victoria-preston-exploratory-robots-0707</id>
+        <link href="https://news.mit.edu/2021/victoria-preston-exploratory-robots-0707"/>
+        <updated>2021-07-07T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“This is a really exciting time to be a roboticist who also cares about the environment,” says PhD student Victoria Preston.]]></summary>
+        <author>
+            <name>Hannah Meiseles | MIT News correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing exploratory robots that collect data for marine scientists]]></title>
+        <id>https://news.mit.edu/2021/victoria-preston-exploratory-robots-0707</id>
+        <link href="https://news.mit.edu/2021/victoria-preston-exploratory-robots-0707"/>
+        <updated>2021-07-07T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“This is a really exciting time to be a roboticist who also cares about the environment,” says PhD student Victoria Preston.]]></summary>
+        <author>
+            <name>Hannah Meiseles | MIT News correspondent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Giving robots better moves]]></title>
         <id>https://news.mit.edu/2021/righthand-robotics-0701</id>
@@ -263,16 +303,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[A virtual environment embedded with knowledge of the physical world speeds up problem-solving.]]></summary>
         <author>
             <name>Kim Martineau | MIT Quest for Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using computational tools for molecule discovery]]></title>
-        <id>https://news.mit.edu/2021/using-computational-tools-molecule-discovery-connor-coley-0608</id>
-        <link href="https://news.mit.edu/2021/using-computational-tools-molecule-discovery-connor-coley-0608"/>
-        <updated>2021-06-08T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Assistant professor Connor Coley is developing tools that would be able to predict molecular behavior and learn from both successes and mistakes.]]></summary>
-        <author>
-            <name>Steve Calechman | MIT Industrial Liaison Program</name>
         </author>
     </entry>
 </feed>

@@ -22,12 +22,21 @@
       "siteUrl": "https://news.mit.edu/rss/topic/robotics",
       "articles": [
         {
+          "id": "https://news.mit.edu/2021/us-air-force-pilots-artificial-intelligence-assist-scheduling-aircrews-0708",
+          "author": "Kylie Foy | MIT Lincoln Laboratory",
+          "description": "An optimization tool from the Department of Air Force–MIT AI Accelerator is transforming the laborious process of staffing C-17 cargo flights.",
+          "link": "https://news.mit.edu/2021/us-air-force-pilots-artificial-intelligence-assist-scheduling-aircrews-0708",
+          "publishedOn": "2021-07-08T18:45:00.000Z",
+          "wordCount": 2122,
+          "title": "US Air Force pilots get an artificial intelligence assist with scheduling aircrews"
+        },
+        {
           "id": "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707",
           "author": "Matthew Hutson | Department of Nuclear Science and Engineering",
           "description": "MIT researchers train a neural network to predict a “boiling crisis,” with potential applications for cooling computer chips and nuclear reactors.",
           "link": "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707",
           "publishedOn": "2021-07-07T20:15:00.000Z",
-          "wordCount": 1639,
+          "wordCount": 1610,
           "title": "Infrared cameras and artificial intelligence provide insight into boiling"
         },
         {
@@ -36,7 +45,7 @@
           "description": "“This is a really exciting time to be a roboticist who also cares about the environment,” says PhD student Victoria Preston.",
           "link": "https://news.mit.edu/2021/victoria-preston-exploratory-robots-0707",
           "publishedOn": "2021-07-07T04:00:00.000Z",
-          "wordCount": 1904,
+          "wordCount": 1875,
           "title": "Designing exploratory robots that collect data for marine scientists"
         },
         {
@@ -45,7 +54,7 @@
           "description": "“This is a really exciting time to be a roboticist who also cares about the environment,” says PhD student Victoria Preston.",
           "link": "https://news.mit.edu/2021/victoria-preston-exploratory-robots-0707",
           "publishedOn": "2021-07-07T04:00:00.000Z",
-          "wordCount": 1904,
+          "wordCount": 1875,
           "title": "Designing exploratory robots that collect data for marine scientists"
         },
         {
@@ -54,7 +63,7 @@
           "description": "“This is a really exciting time to be a roboticist who also cares about the environment,” says PhD student Victoria Preston.",
           "link": "https://news.mit.edu/2021/victoria-preston-exploratory-robots-0707",
           "publishedOn": "2021-07-07T04:00:00.000Z",
-          "wordCount": 1904,
+          "wordCount": 1875,
           "title": "Designing exploratory robots that collect data for marine scientists"
         },
         {
@@ -63,7 +72,7 @@
           "description": "MIT alumnus-founded RightHand Robotics has developed picking robots that are more reliable and adaptable in warehouse environments.",
           "link": "https://news.mit.edu/2021/righthand-robotics-0701",
           "publishedOn": "2021-07-01T04:00:00.000Z",
-          "wordCount": 1991,
+          "wordCount": 1959,
           "title": "Giving robots better moves"
         },
         {
@@ -72,7 +81,7 @@
           "description": "Graduate student Ellen Zhong helped biologists and mathematicians reach across departmental lines to address a longstanding problem in electron microscopy.",
           "link": "https://news.mit.edu/2021/power-of-two-ellen-zhong-0630",
           "publishedOn": "2021-06-30T04:00:00.000Z",
-          "wordCount": 1977,
+          "wordCount": 1945,
           "title": "The power of two"
         },
         {
@@ -81,7 +90,7 @@
           "description": "MIT offers first courses on the platform, which aims to serve cutting-edge manufacturing education to more Americans.",
           "link": "https://news.mit.edu/2021/mit-dod-launch-new-edx-learning-platform-manufacturing-education-0629",
           "publishedOn": "2021-06-29T18:30:00.000Z",
-          "wordCount": 1350,
+          "wordCount": 1318,
           "title": "MIT and U.S. Department of Defense team up to launch a new edX learning platform"
         },
         {
@@ -90,7 +99,7 @@
           "description": "Tactical sensing carpet estimates 3D human poses without the use of cameras, and could improve health monitoring and smart homes.",
           "link": "https://news.mit.edu/2021/intelligent-carpet-gives-insight-human-poses-0624",
           "publishedOn": "2021-06-24T19:10:00.000Z",
-          "wordCount": 1341,
+          "wordCount": 1309,
           "title": "Intelligent carpet gives insight into human poses"
         },
         {
@@ -99,7 +108,7 @@
           "description": "Faculty from the departments of Physics and of Nuclear Science and Engineering faculty were selected for the Early Career Research Program.",
           "link": "https://news.mit.edu/2021/four-mit-faculty-members-receive-us-department-energy-early-career-awards-0624",
           "publishedOn": "2021-06-24T18:50:00.000Z",
-          "wordCount": 1937,
+          "wordCount": 1905,
           "title": "Four MIT faculty members receive 2021 US Department of Energy early career awards"
         },
         {
@@ -108,7 +117,7 @@
           "description": "Alumni of the MIT New Engineering Education Transformation Program (NEET) worked together remotely from across the globe to design thinking machines.",
           "link": "https://news.mit.edu/2021/tackling-air-pollution-with-autonomous-drones-0624",
           "publishedOn": "2021-06-24T17:00:00.000Z",
-          "wordCount": 2059,
+          "wordCount": 2027,
           "title": "Tackling air pollution with autonomous drones"
         },
         {
@@ -117,7 +126,7 @@
           "description": "Alumni of the MIT New Engineering Education Transformation Program (NEET) worked together remotely from across the globe to design thinking machines.",
           "link": "https://news.mit.edu/2021/tackling-air-pollution-with-autonomous-drones-0624",
           "publishedOn": "2021-06-24T17:00:00.000Z",
-          "wordCount": 2059,
+          "wordCount": 2027,
           "title": "Tackling air pollution with autonomous drones"
         },
         {
@@ -126,7 +135,7 @@
           "description": "Selective global honor supports early-career scientists and engineers in taking on new pursuits.",
           "link": "https://news.mit.edu/2021/four-researchers-earn-schmidt-science-fellowships-0623",
           "publishedOn": "2021-06-23T17:15:00.000Z",
-          "wordCount": 1680,
+          "wordCount": 1648,
           "title": "Four researchers earn interdisciplinary Schmidt Science Fellowships"
         },
         {
@@ -135,7 +144,7 @@
           "description": "After meeting in an Advanced Study Program at MIT, three Norwegian students began working together to transport biological samples using autonomous vehicles.",
           "link": "https://news.mit.edu/2021/developing-drones-address-pandemic-related-challenges-scandinavia-0623",
           "publishedOn": "2021-06-23T04:00:00.000Z",
-          "wordCount": 1842,
+          "wordCount": 1810,
           "title": "Developing drones to address pandemic-related challenges in Scandinavia"
         },
         {
@@ -144,7 +153,7 @@
           "description": "After meeting in an Advanced Study Program at MIT, three Norwegian students began working together to transport biological samples using autonomous vehicles.",
           "link": "https://news.mit.edu/2021/developing-drones-address-pandemic-related-challenges-scandinavia-0623",
           "publishedOn": "2021-06-23T04:00:00.000Z",
-          "wordCount": 1842,
+          "wordCount": 1810,
           "title": "Developing drones to address pandemic-related challenges in Scandinavia"
         },
         {
@@ -153,7 +162,7 @@
           "description": "Nearly 300 government and military members participated in a new course designed to explore the next generation of artificial intelligence and related technologies.",
           "link": "https://news.mit.edu/2021/unique-collaboration-us-special-operations-command-0622",
           "publishedOn": "2021-06-22T20:15:00.000Z",
-          "wordCount": 2540,
+          "wordCount": 2508,
           "title": "A unique collaboration with US Special Operations Command"
         },
         {
@@ -162,7 +171,7 @@
           "description": "Nearly 300 government and military members participated in a new course designed to explore the next generation of artificial intelligence and related technologies.",
           "link": "https://news.mit.edu/2021/unique-collaboration-us-special-operations-command-0622",
           "publishedOn": "2021-06-22T20:15:00.000Z",
-          "wordCount": 2540,
+          "wordCount": 2508,
           "title": "A unique collaboration with US Special Operations Command"
         },
         {
@@ -171,7 +180,7 @@
           "description": "Nearly 300 government and military members participated in a new course designed to explore the next generation of artificial intelligence and related technologies.",
           "link": "https://news.mit.edu/2021/unique-collaboration-us-special-operations-command-0622",
           "publishedOn": "2021-06-22T20:15:00.000Z",
-          "wordCount": 2540,
+          "wordCount": 2508,
           "title": "A unique collaboration with US Special Operations Command"
         },
         {
@@ -180,7 +189,7 @@
           "description": "PhD student Sarah Nyquist applies computational methods to understudied areas of reproductive health, such as the cellular composition of breast milk.",
           "link": "https://news.mit.edu/2021/sarah-nyquist-reproductive-health-0617",
           "publishedOn": "2021-06-17T04:00:00.000Z",
-          "wordCount": 1909,
+          "wordCount": 1877,
           "title": "Uncovering the mysteries of milk"
         },
         {
@@ -189,7 +198,7 @@
           "description": "Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.",
           "link": "https://news.mit.edu/2021/new-wave-robotic-automation-0616",
           "publishedOn": "2021-06-16T16:40:00.000Z",
-          "wordCount": 1867,
+          "wordCount": 1835,
           "title": "The new wave of robotic automation"
         },
         {
@@ -198,7 +207,7 @@
           "description": "Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.",
           "link": "https://news.mit.edu/2021/new-wave-robotic-automation-0616",
           "publishedOn": "2021-06-16T16:40:00.000Z",
-          "wordCount": 1867,
+          "wordCount": 1835,
           "title": "The new wave of robotic automation"
         },
         {
@@ -207,7 +216,7 @@
           "description": "Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.",
           "link": "https://news.mit.edu/2021/new-wave-robotic-automation-0616",
           "publishedOn": "2021-06-16T16:40:00.000Z",
-          "wordCount": 1867,
+          "wordCount": 1835,
           "title": "The new wave of robotic automation"
         },
         {
@@ -216,7 +225,7 @@
           "description": "Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.",
           "link": "https://news.mit.edu/2021/new-wave-robotic-automation-0616",
           "publishedOn": "2021-06-16T16:40:00.000Z",
-          "wordCount": 1867,
+          "wordCount": 1835,
           "title": "The new wave of robotic automation"
         },
         {
@@ -225,7 +234,7 @@
           "description": "Algorand uses a unique architecture developed by MIT Professor Silvio Micali to offer a decentralized, secure, and scalable blockchain.",
           "link": "https://news.mit.edu/2021/unlocking-potential-blockchain-0616",
           "publishedOn": "2021-06-16T04:00:00.000Z",
-          "wordCount": 2185,
+          "wordCount": 2153,
           "title": "Unlocking the potential of blockchain technology"
         },
         {
@@ -234,7 +243,7 @@
           "description": "Model could help predictive virtual models become standard practice in engineering.",
           "link": "https://news.mit.edu/2021/creating-digital-twins-scale-0614",
           "publishedOn": "2021-06-14T17:00:00.000Z",
-          "wordCount": 1843,
+          "wordCount": 1811,
           "title": "Creating “digital twins” at scale"
         },
         {
@@ -243,7 +252,7 @@
           "description": "Professor Tim Jamison’s company Snapdragon Chemistry helps turn the latest innovations in chemistry into impactful drugs.",
           "link": "https://news.mit.edu/2021/snapdragon-drug-chemistry-0611",
           "publishedOn": "2021-06-11T04:00:00.000Z",
-          "wordCount": 1891,
+          "wordCount": 1859,
           "title": "Speeding up clinical trials by making drug production local"
         },
         {
@@ -252,7 +261,7 @@
           "description": "Professor Tim Jamison’s company Snapdragon Chemistry helps turn the latest innovations in chemistry into impactful drugs.",
           "link": "https://news.mit.edu/2021/snapdragon-drug-chemistry-0611",
           "publishedOn": "2021-06-11T04:00:00.000Z",
-          "wordCount": 1891,
+          "wordCount": 1859,
           "title": "Speeding up clinical trials by making drug production local"
         },
         {
@@ -261,7 +270,7 @@
           "description": "A virtual environment embedded with knowledge of the physical world speeds up problem-solving.",
           "link": "https://news.mit.edu/2021/training-robots-manipulate-soft-deformable-objects-0609",
           "publishedOn": "2021-06-09T19:20:00.000Z",
-          "wordCount": 1352,
+          "wordCount": 1320,
           "title": "Training robots to manipulate soft and deformable objects"
         },
         {
@@ -270,7 +279,7 @@
           "description": "A virtual environment embedded with knowledge of the physical world speeds up problem-solving.",
           "link": "https://news.mit.edu/2021/training-robots-manipulate-soft-deformable-objects-0609",
           "publishedOn": "2021-06-09T19:20:00.000Z",
-          "wordCount": 1352,
+          "wordCount": 1320,
           "title": "Training robots to manipulate soft and deformable objects"
         }
       ]

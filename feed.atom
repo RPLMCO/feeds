@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T00:32:19.015Z</updated>
+    <updated>2021-07-09T00:35:40.752Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[US Air Force pilots get an artificial intelligence assist with scheduling aircrews]]></title>
+        <id>https://news.mit.edu/2021/us-air-force-pilots-artificial-intelligence-assist-scheduling-aircrews-0708</id>
+        <link href="https://news.mit.edu/2021/us-air-force-pilots-artificial-intelligence-assist-scheduling-aircrews-0708"/>
+        <updated>2021-07-08T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[An optimization tool from the Department of Air Force–MIT AI Accelerator is transforming the laborious process of staffing C-17 cargo flights.]]></summary>
+        <author>
+            <name>Kylie Foy | MIT Lincoln Laboratory</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Infrared cameras and artificial intelligence provide insight into boiling]]></title>
         <id>https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707</id>

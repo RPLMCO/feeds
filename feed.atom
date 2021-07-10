@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T00:35:40.752Z</updated>
+    <updated>2021-07-10T00:32:55.655Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The tenured engineers of 2021]]></title>
+        <id>https://news.mit.edu/2021/tenured-engineers-2021-0709</id>
+        <link href="https://news.mit.edu/2021/tenured-engineers-2021-0709"/>
+        <updated>2021-07-09T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eight faculty members have been granted tenure in five departments across the MIT School of Engineering.]]></summary>
+        <author>
+            <name>School of Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Air Force pilots get an artificial intelligence assist with scheduling aircrews]]></title>
         <id>https://news.mit.edu/2021/us-air-force-pilots-artificial-intelligence-assist-scheduling-aircrews-0708</id>
@@ -293,26 +303,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Professor Tim Jamison’s company Snapdragon Chemistry helps turn the latest innovations in chemistry into impactful drugs.]]></summary>
         <author>
             <name>Zach Winn | MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training robots to manipulate soft and deformable objects]]></title>
-        <id>https://news.mit.edu/2021/training-robots-manipulate-soft-deformable-objects-0609</id>
-        <link href="https://news.mit.edu/2021/training-robots-manipulate-soft-deformable-objects-0609"/>
-        <updated>2021-06-09T19:20:00.000Z</updated>
-        <summary type="html"><![CDATA[A virtual environment embedded with knowledge of the physical world speeds up problem-solving.]]></summary>
-        <author>
-            <name>Kim Martineau | MIT Quest for Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training robots to manipulate soft and deformable objects]]></title>
-        <id>https://news.mit.edu/2021/training-robots-manipulate-soft-deformable-objects-0609</id>
-        <link href="https://news.mit.edu/2021/training-robots-manipulate-soft-deformable-objects-0609"/>
-        <updated>2021-06-09T19:20:00.000Z</updated>
-        <summary type="html"><![CDATA[A virtual environment embedded with knowledge of the physical world speeds up problem-solving.]]></summary>
-        <author>
-            <name>Kim Martineau | MIT Quest for Intelligence</name>
         </author>
     </entry>
 </feed>

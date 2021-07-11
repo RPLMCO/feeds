@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T00:32:55.655Z</updated>
+    <updated>2021-07-11T00:38:42.667Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
@@ -283,26 +283,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Model could help predictive virtual models become standard practice in engineering.]]></summary>
         <author>
             <name>Becky Ham | Department of Aeronautics and Astronautics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speeding up clinical trials by making drug production local]]></title>
-        <id>https://news.mit.edu/2021/snapdragon-drug-chemistry-0611</id>
-        <link href="https://news.mit.edu/2021/snapdragon-drug-chemistry-0611"/>
-        <updated>2021-06-11T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Professor Tim Jamison’s company Snapdragon Chemistry helps turn the latest innovations in chemistry into impactful drugs.]]></summary>
-        <author>
-            <name>Zach Winn | MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speeding up clinical trials by making drug production local]]></title>
-        <id>https://news.mit.edu/2021/snapdragon-drug-chemistry-0611</id>
-        <link href="https://news.mit.edu/2021/snapdragon-drug-chemistry-0611"/>
-        <updated>2021-06-11T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Professor Tim Jamison’s company Snapdragon Chemistry helps turn the latest innovations in chemistry into impactful drugs.]]></summary>
-        <author>
-            <name>Zach Winn | MIT News Office</name>
         </author>
     </entry>
 </feed>

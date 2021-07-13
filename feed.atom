@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T00:33:40.250Z</updated>
+    <updated>2021-07-13T00:36:03.509Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sertac Karaman named director of the Laboratory for Information and Decision Systems]]></title>
+        <id>https://news.mit.edu/2021/sertac-karaman-named-director-laboratory-information-decision-systems-0712</id>
+        <link href="https://news.mit.edu/2021/sertac-karaman-named-director-laboratory-information-decision-systems-0712"/>
+        <updated>2021-07-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Associate professor of aeronautics and astronautics will head MIT’s longest continuously-running lab.]]></summary>
+        <author>
+            <name>MIT Schwarzman College of Computing</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The tenured engineers of 2021]]></title>
         <id>https://news.mit.edu/2021/tenured-engineers-2021-0709</id>

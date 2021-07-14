@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T00:36:03.509Z</updated>
+    <updated>2021-07-14T00:31:27.731Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Software to accelerate R&D]]></title>
+        <id>https://news.mit.edu/2021/uncountable-rd-0713</id>
+        <link href="https://news.mit.edu/2021/uncountable-rd-0713"/>
+        <updated>2021-07-13T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The alumni-founded startup Uncountable has developed a digital workbook to help scientists get more out of experimental data.]]></summary>
+        <author>
+            <name>Zach Winn | MIT News Office</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sertac Karaman named director of the Laboratory for Information and Decision Systems]]></title>
         <id>https://news.mit.edu/2021/sertac-karaman-named-director-laboratory-information-decision-systems-0712</id>

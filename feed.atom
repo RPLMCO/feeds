@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T00:31:27.731Z</updated>
+    <updated>2021-07-15T00:33:21.901Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getting dressed with help from robots]]></title>
+        <id>https://news.mit.edu/2021/getting-dressed-with-help-from-robots-0714</id>
+        <link href="https://news.mit.edu/2021/getting-dressed-with-help-from-robots-0714"/>
+        <updated>2021-07-14T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A human-aware motion planning algorithm addresses the safety gap in collaboration between robots and humans.]]></summary>
+        <author>
+            <name>Rachel Gordon | MIT CSAIL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting dressed with help from robots]]></title>
+        <id>https://news.mit.edu/2021/getting-dressed-with-help-from-robots-0714</id>
+        <link href="https://news.mit.edu/2021/getting-dressed-with-help-from-robots-0714"/>
+        <updated>2021-07-14T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A human-aware motion planning algorithm addresses the safety gap in collaboration between robots and humans.]]></summary>
+        <author>
+            <name>Rachel Gordon | MIT CSAIL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting dressed with help from robots]]></title>
+        <id>https://news.mit.edu/2021/getting-dressed-with-help-from-robots-0714</id>
+        <link href="https://news.mit.edu/2021/getting-dressed-with-help-from-robots-0714"/>
+        <updated>2021-07-14T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A human-aware motion planning algorithm addresses the safety gap in collaboration between robots and humans.]]></summary>
+        <author>
+            <name>Rachel Gordon | MIT CSAIL</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Software to accelerate R&D]]></title>
         <id>https://news.mit.edu/2021/uncountable-rd-0713</id>
@@ -293,16 +323,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Algorand uses a unique architecture developed by MIT Professor Silvio Micali to offer a decentralized, secure, and scalable blockchain.]]></summary>
         <author>
             <name>Zach Winn | MIT News Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating “digital twins” at scale]]></title>
-        <id>https://news.mit.edu/2021/creating-digital-twins-scale-0614</id>
-        <link href="https://news.mit.edu/2021/creating-digital-twins-scale-0614"/>
-        <updated>2021-06-14T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Model could help predictive virtual models become standard practice in engineering.]]></summary>
-        <author>
-            <name>Becky Ham | Department of Aeronautics and Astronautics</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T00:33:21.901Z</updated>
+    <updated>2021-07-16T00:34:21.170Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
@@ -313,16 +313,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
         <author>
             <name>Daniel de Wolff | MIT Startup Exchange</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking the potential of blockchain technology]]></title>
-        <id>https://news.mit.edu/2021/unlocking-potential-blockchain-0616</id>
-        <link href="https://news.mit.edu/2021/unlocking-potential-blockchain-0616"/>
-        <updated>2021-06-16T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Algorand uses a unique architecture developed by MIT Professor Silvio Micali to offer a decentralized, secure, and scalable blockchain.]]></summary>
-        <author>
-            <name>Zach Winn | MIT News Office</name>
         </author>
     </entry>
 </feed>

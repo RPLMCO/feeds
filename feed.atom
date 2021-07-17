@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RPLMCO.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T00:34:21.170Z</updated>
+    <updated>2021-07-17T00:33:52.021Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://RPLMCO.github.io/feeds/index.html"/>
     <link rel="self" href="https://RPLMCO.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIT Schwarzman College of Computing awards named professorships to two faculty members]]></title>
+        <id>https://news.mit.edu/2021/mit-schwarzman-college-computing-awards-named-professorships-0716</id>
+        <link href="https://news.mit.edu/2021/mit-schwarzman-college-computing-awards-named-professorships-0716"/>
+        <updated>2021-07-16T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Dina Katabi and Aleksander Madry receive additional support to pursue their research and develop their careers.]]></summary>
+        <author>
+            <name>MIT Schwarzman College of Computing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT Schwarzman College of Computing awards named professorships to two faculty members]]></title>
+        <id>https://news.mit.edu/2021/mit-schwarzman-college-computing-awards-named-professorships-0716</id>
+        <link href="https://news.mit.edu/2021/mit-schwarzman-college-computing-awards-named-professorships-0716"/>
+        <updated>2021-07-16T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Dina Katabi and Aleksander Madry receive additional support to pursue their research and develop their careers.]]></summary>
+        <author>
+            <name>MIT Schwarzman College of Computing</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting dressed with help from robots]]></title>
         <id>https://news.mit.edu/2021/getting-dressed-with-help-from-robots-0714</id>
@@ -263,56 +283,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Nearly 300 government and military members participated in a new course designed to explore the next generation of artificial intelligence and related technologies.]]></summary>
         <author>
             <name>Kate S. Petersen | School of Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncovering the mysteries of milk]]></title>
-        <id>https://news.mit.edu/2021/sarah-nyquist-reproductive-health-0617</id>
-        <link href="https://news.mit.edu/2021/sarah-nyquist-reproductive-health-0617"/>
-        <updated>2021-06-17T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PhD student Sarah Nyquist applies computational methods to understudied areas of reproductive health, such as the cellular composition of breast milk.]]></summary>
-        <author>
-            <name>Hannah Meiseles | MIT News correspondent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new wave of robotic automation]]></title>
-        <id>https://news.mit.edu/2021/new-wave-robotic-automation-0616</id>
-        <link href="https://news.mit.edu/2021/new-wave-robotic-automation-0616"/>
-        <updated>2021-06-16T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
-        <author>
-            <name>Daniel de Wolff | MIT Startup Exchange</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new wave of robotic automation]]></title>
-        <id>https://news.mit.edu/2021/new-wave-robotic-automation-0616</id>
-        <link href="https://news.mit.edu/2021/new-wave-robotic-automation-0616"/>
-        <updated>2021-06-16T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
-        <author>
-            <name>Daniel de Wolff | MIT Startup Exchange</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new wave of robotic automation]]></title>
-        <id>https://news.mit.edu/2021/new-wave-robotic-automation-0616</id>
-        <link href="https://news.mit.edu/2021/new-wave-robotic-automation-0616"/>
-        <updated>2021-06-16T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
-        <author>
-            <name>Daniel de Wolff | MIT Startup Exchange</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new wave of robotic automation]]></title>
-        <id>https://news.mit.edu/2021/new-wave-robotic-automation-0616</id>
-        <link href="https://news.mit.edu/2021/new-wave-robotic-automation-0616"/>
-        <updated>2021-06-16T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Peter Howard SM ’84 is the CEO of Realtime Robotics, a startup transforming autonomous robot motion planning to enable seamless, affordable human-robot collaboration.]]></summary>
-        <author>
-            <name>Daniel de Wolff | MIT Startup Exchange</name>
         </author>
     </entry>
 </feed>
